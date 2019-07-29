@@ -1,0 +1,47 @@
+@dark-blue: #030196;
+
+h1 {
+  color: @dark-blue;
+  margin-top: 0 !important;
+}
+
+.data-grid {
+  height: 80vh;
+  overflow: scroll;
+  align-items: center;
+  margin: auto;
+  width: 80%;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+}
+
+table {
+  font-family: Verdana;
+  font-size: 14px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  padding: 10px;
+  text-align: left;
+  margin: 0;
+}
+
+td.columnResizer {
+  padding: 0.5px;
+}
+
+tbody tr:nth-child(2n){
+  background-color: #eee;
+}
+
+th {
+  font-family: Verdana;
+  font-weight: bold;
+  position: sticky;
+  top: 0;
+  background-color: #d6e7ff;
+  color: @dark-blue;
+  cursor: pointer;
+}

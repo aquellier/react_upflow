@@ -1,0 +1,4002 @@
+[
+ {
+   "rank": 1,
+   "name": "Bis Rénovation Energie",
+   "annuelMoyen": 256,
+   "threeYears": 4400,
+   "commune": "Evreux (27)",
+   "description": "Spécialiste de la rénovation thermique."
+ },
+ {
+   "rank": 2,
+   "name": "Kupela",
+   "annuelMoyen": 244,
+   "threeYears": 3987,
+   "commune": "Anglet (64)",
+   "description": "Production et distribution de boissons."
+ },
+ {
+   "rank": 3,
+   "name": "Fiducim",
+   "annuelMoyen": 239,
+   "threeYears": 3806,
+   "commune": "Paris (75)",
+   "description": "Promotion immobilière."
+ },
+ {
+   "rank": 4,
+   "name": "Eskimoz",
+   "annuelMoyen": 228,
+   "threeYears": 3429,
+   "commune": "Paris (75)",
+   "description": "Agence spécialisée dans le référencement naturel des entreprises. "
+ },
+ {
+   "rank": 5,
+   "name": "Monabee",
+   "annuelMoyen": 209,
+   "threeYears": 2843,
+   "commune": "Dardilly (69)",
+   "description": "Entreprise spécialisée dans la gestion et l’optimisation de l’énergie. "
+ },
+ {
+   "rank": 6,
+   "name": "Miprom",
+   "annuelMoyen": 186,
+   "threeYears": 2240,
+   "commune": "Lyon (69)",
+   "description": "Promotion immobilière."
+ },
+ {
+   "rank": 7,
+   "name": "Habiteo",
+   "annuelMoyen": 180,
+   "threeYears": 2090,
+   "commune": "Paris (75)",
+   "description": "Plateforme collaborative dédiée à l’immobilier neuf qui permet de piloter simultanément l’activité vente et marketing."
+ },
+ {
+   "rank": 8,
+   "name": "Domalys",
+   "annuelMoyen": 178,
+   "threeYears": 2048,
+   "commune": "Fontaine-le-Comte (86)",
+   "description": "Conception et fabrication d’équipements pour personnes dépendantes."
+ },
+ {
+   "rank": 9,
+   "name": "De L’Autre Côté du Périph’",
+   "annuelMoyen": 161,
+   "threeYears": 1678,
+   "commune": "Montreuil (93)",
+   "description": "Production de courts et longs métrages, documentaires, séries et œuvres pour le web."
+ },
+ {
+   "rank": 10,
+   "name": "Meitis",
+   "annuelMoyen": 154,
+   "threeYears": 1546,
+   "commune": "Sarcelles (95)",
+   "description": "Prestations d’accompagnement de jeunes en difficulté."
+ },
+ {
+   "rank": 11,
+   "name": "AlterBoutique",
+   "annuelMoyen": 154,
+   "threeYears": 1536,
+   "commune": "Toul (54)",
+   "description": "E-commerce et communication."
+ },
+ {
+   "rank": 12,
+   "name": "Allocab",
+   "annuelMoyen": 152,
+   "threeYears": 1504,
+   "commune": "Paris (75)",
+   "description": "Réservation de VTC ou de moto-taxis."
+ },
+ {
+   "rank": 13,
+   "name": "Maisons Fidéa",
+   "annuelMoyen": 149,
+   "threeYears": 1452,
+   "commune": "Bressure (79)",
+   "description": "Constructeur de maisons individuelles."
+ },
+ {
+   "rank": 14,
+   "name": "Eco CO2",
+   "annuelMoyen": 146,
+   "threeYears": 1380,
+   "commune": "Nanterre (92)",
+   "description": "Mesure, analyse des consommations d’énergie et sensibilisation des consommateurs."
+ },
+ {
+   "rank": 15,
+   "name": "YouLoveWords",
+   "annuelMoyen": 137,
+   "threeYears": 1233,
+   "commune": "Paris (75)",
+   "description": "Agence de Communication."
+ },
+ {
+   "rank": 16,
+   "name": "Ideria",
+   "annuelMoyen": 135,
+   "threeYears": 1202,
+   "commune": "Orvault (44)",
+   "description": "Distribution spécialisée d’équipements et accessoires pour la restauration professionnelle."
+ },
+ {
+   "rank": 17,
+   "name": "Voip Telecom",
+   "annuelMoyen": 134,
+   "threeYears": 1188,
+   "commune": "Levallois-Perret (92)",
+   "description": "Opérateur de télécommunications pour entreprises. "
+ },
+ {
+   "rank": 18,
+   "name": "Naïo Technologies",
+   "annuelMoyen": 132,
+   "threeYears": 1156,
+   "commune": "Escalquens (31)",
+   "description": "Développement et commercialisation des robots agricoles et viticoles."
+ },
+ {
+   "rank": 19,
+   "name": "Lemon Way",
+   "annuelMoyen": 125,
+   "threeYears": 1037,
+   "commune": "Montreuil (93)",
+   "description": "Plateforme de paiement sécurisé."
+ },
+ {
+   "rank": 20,
+   "name": "GpasPlus",
+   "annuelMoyen": 124,
+   "threeYears": 1020,
+   "commune": "Paris (75)",
+   "description": "Vente en ligne."
+ },
+ {
+   "rank": 21,
+   "name": "Mediterranean Food Solutions",
+   "annuelMoyen": 121,
+   "threeYears": 981,
+   "commune": "Avignon (84)",
+   "description": "Importation et distribution de produits alimentaires italiens pour les professionnels. "
+ },
+ {
+   "rank": 22,
+   "name": "Superprof",
+   "annuelMoyen": 121,
+   "threeYears": 974,
+   "commune": "Paris (75)",
+   "description": "Plateforme de mise en relation entre élèves et professeurs particuliers."
+ },
+ {
+   "rank": 23,
+   "name": "Oxwork",
+   "annuelMoyen": 120,
+   "threeYears": 972,
+   "commune": "Paris (75)",
+   "description": "Intermédiaire de la vente par internet spécialisé dans les vêtements de travail."
+ },
+ {
+   "rank": 24,
+   "name": "GoodBarber",
+   "annuelMoyen": 120,
+   "threeYears": 970,
+   "commune": "Ajaccio (20)",
+   "description": "Editeur d’applications pour mobile."
+ },
+ {
+   "rank": 25,
+   "name": "TJMAX",
+   "annuelMoyen": 119,
+   "threeYears": 945,
+   "commune": "Roissy-en-France (95)",
+   "description": "Prêt-à-porter homme et femme."
+ },
+ {
+   "rank": 26,
+   "name": "GT Company",
+   "annuelMoyen": 114,
+   "threeYears": 879,
+   "commune": "Chessy (77)",
+   "description": "Importation et développement des produits sous licences dans l’électronique grand public et le jouet. "
+ },
+ {
+   "rank": 27,
+   "name": "Osiway",
+   "annuelMoyen": 113,
+   "threeYears": 871,
+   "commune": "Sainte-Maure-de-Touraine (37)",
+   "description": "Fournisseur de solutions Télécoms."
+ },
+ {
+   "rank": 28,
+   "name": "Thiga",
+   "annuelMoyen": 113,
+   "threeYears": 866,
+   "commune": "Paris (75)",
+   "description": "Conseil en conception de produits numériques."
+ },
+ {
+   "rank": 29,
+   "name": "Le Slip Français",
+   "annuelMoyen": 106,
+   "threeYears": 773,
+   "commune": "Paris (75)",
+   "description": "Confection et vente de sous-vêtements masculins. La marque propose aussi des sous-vêtements femme."
+ },
+ {
+   "rank": 30,
+   "name": "ARES",
+   "annuelMoyen": 106,
+   "threeYears": 773,
+   "commune": "Dracy-le-Fort (71)",
+   "description": "Conseil en ingénierie environnementale."
+ },
+ {
+   "rank": 31,
+   "name": "SFAM Group",
+   "annuelMoyen": 105,
+   "threeYears": 757,
+   "commune": "Romans-sur-Isère (26)",
+   "description": "Assurance pour la téléphonie mobile, le multimédia et les objets connectés."
+ },
+ {
+   "rank": 32,
+   "name": "Groupe Cochez",
+   "annuelMoyen": 104,
+   "threeYears": 749,
+   "commune": "Valenciennes",
+   "description": "Logistique industrielle."
+ },
+ {
+   "rank": 33,
+   "name": "Kameleoon",
+   "annuelMoyen": 102,
+   "threeYears": 729,
+   "commune": "Paris (75)",
+   "description": "Marketing digital."
+ },
+ {
+   "rank": 34,
+   "name": "Innovi Recherche",
+   "annuelMoyen": 100,
+   "threeYears": 703,
+   "commune": "Layrac (47)",
+   "description": "Laboratoire de recherche spécialisé dans le tissu de surface du vivant."
+ },
+ {
+   "rank": 35,
+   "name": "Agripower France",
+   "annuelMoyen": 98,
+   "threeYears": 682,
+   "commune": "Carquefou (44)",
+   "description": "Producteur d’énergie verte. "
+ },
+ {
+   "rank": 36,
+   "name": "Agriconomie",
+   "annuelMoyen": 98,
+   "threeYears": 673,
+   "commune": "Coole (51)",
+   "description": "Site e-commerce spécialisé dans la vente d’engrais, de semences et de matériel agricole."
+ },
+ {
+   "rank": 37,
+   "name": "Sunnysmoker",
+   "annuelMoyen": 97,
+   "threeYears": 664,
+   "commune": "Paris (75)",
+   "description": "Fabrication et distribution d’eliquide pour cigarettes électroniques. "
+ },
+ {
+   "rank": 38,
+   "name": "Nuevo Conseil et Formation",
+   "annuelMoyen": 96,
+   "threeYears": 648,
+   "commune": "Neuilly-sur-Marne (77)",
+   "description": "Accompagnement à la mobilité professionnelle."
+ },
+ {
+   "rank": 39,
+   "name": "Silkhom",
+   "annuelMoyen": 95,
+   "threeYears": 640,
+   "commune": "Lyon (69)",
+   "description": "Recrutement spécialisé sur les métiers de l’Informatique, du digital, et des objets connectés."
+ },
+ {
+   "rank": 40,
+   "name": "Wanecque",
+   "annuelMoyen": 93,
+   "threeYears": 614,
+   "commune": "Mérignac (33)",
+   "description": "Fabrication métallique pour le bâtiment."
+ },
+ {
+   "rank": 41,
+   "name": "Groupe Quintésens",
+   "annuelMoyen": 93,
+   "threeYears": 614,
+   "commune": "Paris (75)",
+   "description": "Conseil en gestion de patrimoine et défiscalisation."
+ },
+ {
+   "rank": 42,
+   "name": "Powerspace",
+   "annuelMoyen": 92,
+   "threeYears": 610,
+   "commune": "Paris (75)",
+   "description": "Plateforme de publicité."
+ },
+ {
+   "rank": 43,
+   "name": "Régional Express",
+   "annuelMoyen": 91,
+   "threeYears": 601,
+   "commune": "Thumeries (59)",
+   "description": "Transport et logistique."
+ },
+ {
+   "rank": 44,
+   "name": "Atlantiq",
+   "annuelMoyen": 91,
+   "threeYears": 597,
+   "commune": "Rueil-Malmaison (92)",
+   "description": "Solution de gestion du besoin en fonds de roulement (BFR)."
+ },
+ {
+   "rank": 45,
+   "name": "Compagnie de l’arc Atlantique",
+   "annuelMoyen": 89,
+   "threeYears": 571,
+   "commune": "Bidart (64)",
+   "description": "Etablissement de paiement spécialisé dans la gestion des frais liés à la mobilité professionnelle."
+ },
+ {
+   "rank": 46,
+   "name": "Eurafibre",
+   "annuelMoyen": 88,
+   "threeYears": 568,
+   "commune": "Villeneuve-d’Ascq (59)",
+   "description": "Opérateur d’infrastructures télécoms spécialisé dans le déploiement et l’exploitation de fibre optique."
+ },
+ {
+   "rank": 47,
+   "name": "CliQéo",
+   "annuelMoyen": 88,
+   "threeYears": 563,
+   "commune": "Palaiseau (91)",
+   "description": "Solutions de suivi du retour sur investissement pour TPE et PME."
+ },
+ {
+   "rank": 48,
+   "name": "Moore",
+   "annuelMoyen": 87,
+   "threeYears": 551,
+   "commune": "Paris (75)",
+   "description": "Importation, création et fabrication de mobilier."
+ },
+ {
+   "rank": 49,
+   "name": "Groupe Essor",
+   "annuelMoyen": 86,
+   "threeYears": 548,
+   "commune": "Lons (64)",
+   "description": "Construction de bâtiments à usage professionnel. "
+ },
+ {
+   "rank": 50,
+   "name": "MC2 Technologies",
+   "annuelMoyen": 86,
+   "threeYears": 541,
+   "commune": "Sainghin-en-Melantois (59)",
+   "description": "Développement de systèmes d’imagerie."
+ },
+ {
+   "rank": 51,
+   "name": "Younited Credit",
+   "annuelMoyen": 86,
+   "threeYears": 539,
+   "commune": "Paris (75)",
+   "description": "Crédit à la consommation."
+ },
+ {
+   "rank": 52,
+   "name": "Univers Auto",
+   "annuelMoyen": 85,
+   "threeYears": 533,
+   "commune": "Gap (05)",
+   "description": "Vente de véhicules neufs et d’occasion."
+ },
+ {
+   "rank": 53,
+   "name": "Nanomakers",
+   "annuelMoyen": 84,
+   "threeYears": 522,
+   "commune": "Rambouillet (78)",
+   "description": "Conception et production de nano-poudres."
+ },
+ {
+   "rank": 54,
+   "name": "Disko",
+   "annuelMoyen": 83,
+   "threeYears": 510,
+   "commune": "Paris (75)",
+   "description": "Communication digitale."
+ },
+ {
+   "rank": 55,
+   "name": "Prima Solutions",
+   "annuelMoyen": 82,
+   "threeYears": 499,
+   "commune": "Levallois-Perret (92)",
+   "description": "Edition de progiciel d’assurance."
+ },
+ {
+   "rank": 56,
+   "name": "Ethic Technology",
+   "annuelMoyen": 81,
+   "threeYears": 493,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Conseil en transformation IT équitable."
+ },
+ {
+   "rank": 57,
+   "name": "Neoconcept VRD",
+   "annuelMoyen": 81,
+   "threeYears": 492,
+   "commune": "Courbevoie (92)",
+   "description": "Bureau d’étude spécialisé dans la géolocalisation des réseaux enterrés."
+ },
+ {
+   "rank": 58,
+   "name": "Adomik",
+   "annuelMoyen": 80,
+   "threeYears": 480,
+   "commune": "Paris (75)",
+   "description": "Plateforme de gestion de la publicité pour les éditeurs de site web. "
+ },
+ {
+   "rank": 59,
+   "name": "MegaSecur.Europe",
+   "annuelMoyen": 79,
+   "threeYears": 475,
+   "commune": "Rebreuve-Ranchicourt (92)",
+   "description": "Contrôle et prévention des inondations."
+ },
+ {
+   "rank": 60,
+   "name": "Fekra Consulting",
+   "annuelMoyen": 78,
+   "threeYears": 468,
+   "commune": "Nanterre (92)",
+   "description": "Conseil, services informatiques, formations et édition de logiciels."
+ },
+ {
+   "rank": 61,
+   "name": "Coanda Energies SARL",
+   "annuelMoyen": 78,
+   "threeYears": 463,
+   "commune": "Cadaujac (33)",
+   "description": "Génie climatique à destination des marchés tertiaires et industriels."
+ },
+ {
+   "rank": 62,
+   "name": "Satis TT",
+   "annuelMoyen": 77,
+   "threeYears": 456,
+   "commune": "Colmar (68)",
+   "description": "Agence de Travail Temporaire."
+ },
+ {
+   "rank": 63,
+   "name": "Davricourt",
+   "annuelMoyen": 77,
+   "threeYears": 455,
+   "commune": "Levallois-Perret (92)",
+   "description": "Société de conseil et de recrutement pour l’industrie. "
+ },
+ {
+   "rank": 64,
+   "name": "MyChauffage.com",
+   "annuelMoyen": 77,
+   "threeYears": 454,
+   "commune": "Le Havre (76)",
+   "description": "Vente et installation de chaudières auprès du particulier."
+ },
+ {
+   "rank": 65,
+   "name": "Sublime",
+   "annuelMoyen": 77,
+   "threeYears": 452,
+   "commune": "Paris (75)",
+   "description": "Publicité digitale."
+ },
+ {
+   "rank": 66,
+   "name": "Les Films du Worso",
+   "annuelMoyen": 77,
+   "threeYears": 452,
+   "commune": "Paris (75)",
+   "description": "Production d’œuvres cinématographiques et audiovisuelles."
+ },
+ {
+   "rank": 67,
+   "name": "Attestation Légale",
+   "annuelMoyen": 76,
+   "threeYears": 449,
+   "commune": "Lyon (69)",
+   "description": "Réseau social entre fournisseurs et donneurs d’ordres."
+ },
+ {
+   "rank": 68,
+   "name": "SICA",
+   "annuelMoyen": 76,
+   "threeYears": 444,
+   "commune": "Rosières-aux-Salines (54)",
+   "description": "Vente d’acier pour béton."
+ },
+ {
+   "rank": 69,
+   "name": "France Bieres",
+   "annuelMoyen": 75,
+   "threeYears": 438,
+   "commune": "Savigneux (42)",
+   "description": "Grossiste de l’importation et de la diffusion des boissons, spécialisé dans la distribution de bières artisanales."
+ },
+ {
+   "rank": 70,
+   "name": "Car Fleet Services SAS",
+   "annuelMoyen": 74,
+   "threeYears": 428,
+   "commune": "Franconville (95)",
+   "description": "Solutions de financement automobile pour location longue et courte durée et gestion de flotte automobile."
+ },
+ {
+   "rank": 71,
+   "name": "Carrevolutis",
+   "annuelMoyen": 74,
+   "threeYears": 426,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Conseil et services aux entreprises."
+ },
+ {
+   "rank": 72,
+   "name": "Entreprise Renovation Génie civil",
+   "annuelMoyen": 73,
+   "threeYears": 420,
+   "commune": "Nice (06)",
+   "description": "Construction de bâtiments."
+ },
+ {
+   "rank": 73,
+   "name": "50Factory",
+   "annuelMoyen": 73,
+   "threeYears": 414,
+   "commune": "Cerizay (79)",
+   "description": "Vente en ligne de pièces détachées pour scooters."
+ },
+ {
+   "rank": 74,
+   "name": "FD Concept",
+   "annuelMoyen": 72,
+   "threeYears": 413,
+   "commune": "Lille (59)",
+   "description": "Fabrication de revêtements de sols et murs."
+ },
+ {
+   "rank": 75,
+   "name": "Avis Vérifiés",
+   "annuelMoyen": 72,
+   "threeYears": 410,
+   "commune": "Marseille (13)",
+   "description": "Spécialisé dans la collecte, la gestion, l’analyse et la publication d’avis consommateurs."
+ },
+ {
+   "rank": 76,
+   "name": "Apivita",
+   "annuelMoyen": 71,
+   "threeYears": 404,
+   "commune": "Paris (75)",
+   "description": "Fabrication et vente de produits cosmétiques. "
+ },
+ {
+   "rank": 77,
+   "name": "FioulReduc",
+   "annuelMoyen": 71,
+   "threeYears": 403,
+   "commune": "Paris (75)",
+   "description": "Vente de fioul sur Internet."
+ },
+ {
+   "rank": 78,
+   "name": "Smart AdServer",
+   "annuelMoyen": 71,
+   "threeYears": 403,
+   "commune": "Paris (75)",
+   "description": "Serveur de gestion publicité."
+ },
+ {
+   "rank": 79,
+   "name": "Family Web Diffusion",
+   "annuelMoyen": 71,
+   "threeYears": 402,
+   "commune": "Castelginest (31)",
+   "description": "Sexshop en ligne."
+ },
+ {
+   "rank": 80,
+   "name": "Nue-Pro Select",
+   "annuelMoyen": 71,
+   "threeYears": 402,
+   "commune": "Paris (75)",
+   "description": "Montage d’opérations en démembrement de propriété temporaire et commercialisation de nue propriété."
+ },
+ {
+   "rank": 81,
+   "name": "Digilinx",
+   "annuelMoyen": 71,
+   "threeYears": 400,
+   "commune": "Puteaux (92)",
+   "description": "Mise en relation professionnelle dans l’univers digital. "
+ },
+ {
+   "rank": 82,
+   "name": "Agence Renov Design",
+   "annuelMoyen": 71,
+   "threeYears": 399,
+   "commune": "Bobigny (93)",
+   "description": "Rénovation énergétique et rénovation de bâtiments."
+ },
+ {
+   "rank": 83,
+   "name": "ENECSOL",
+   "annuelMoyen": 71,
+   "threeYears": 399,
+   "commune": "Lille (59)",
+   "description": "Vente de solution photovoltaïque."
+ },
+ {
+   "rank": 84,
+   "name": "FSP",
+   "annuelMoyen": 71,
+   "threeYears": 399,
+   "commune": "Paris (75)",
+   "description": "Producteur et négociant en vin."
+ },
+ {
+   "rank": 85,
+   "name": "FourniResto.com",
+   "annuelMoyen": 71,
+   "threeYears": 398,
+   "commune": "Cannes (06)",
+   "description": "Vente en ligne de matériel de cuisine à destination des professionnels et collectivités."
+ },
+ {
+   "rank": 86,
+   "name": "Agorize",
+   "annuelMoyen": 70,
+   "threeYears": 395,
+   "commune": "Paris (75)",
+   "description": "Organisation des challenges d’open innovation  à des fins de communication ou de recrutement RH."
+ },
+ {
+   "rank": 87,
+   "name": "Manifone",
+   "annuelMoyen": 70,
+   "threeYears": 394,
+   "commune": "Vannes (56)",
+   "description": "Opérateur télécom spécialisé en centres de contacts."
+ },
+ {
+   "rank": 88,
+   "name": "Squad",
+   "annuelMoyen": 69,
+   "threeYears": 379,
+   "commune": "Paris (75)",
+   "description": "Conseil en cybersécurité, cloud et digital."
+ },
+ {
+   "rank": 89,
+   "name": "Le Petit Vapoteur",
+   "annuelMoyen": 67,
+   "threeYears": 368,
+   "commune": "Tourlaville (50)",
+   "description": "Vente de cigarettes électroniques et d’accessoires."
+ },
+ {
+   "rank": 90,
+   "name": "Access Protection",
+   "annuelMoyen": 67,
+   "threeYears": 368,
+   "commune": "Tigery (91)",
+   "description": "Protection des biens et des personnes."
+ },
+ {
+   "rank": 91,
+   "name": "AB Tasty",
+   "annuelMoyen": 67,
+   "threeYears": 367,
+   "commune": "Paris (75)",
+   "description": "Marketing digital."
+ },
+ {
+   "rank": 92,
+   "name": "5M Services",
+   "annuelMoyen": 67,
+   "threeYears": 364,
+   "commune": "Gennevilliers (92)",
+   "description": "Maintenance, dépannage, réparation et travaux d’ascenseurs et portes automatiques."
+ },
+ {
+   "rank": 93,
+   "name": "BVS Construction",
+   "annuelMoyen": 66,
+   "threeYears": 361,
+   "commune": "Hauteville-les-Dijon (21)",
+   "description": "Constructeur de maisons sur-mesure."
+ },
+ {
+   "rank": 94,
+   "name": "Be-CLOUD",
+   "annuelMoyen": 66,
+   "threeYears": 355,
+   "commune": "Paris (75)",
+   "description": "Conseil en stratégie de Cloud."
+ },
+ {
+   "rank": 95,
+   "name": "Cirruseo",
+   "annuelMoyen": 66,
+   "threeYears": 354,
+   "commune": "Paris (75)",
+   "description": "Solutions pour améliorer la performance digitale."
+ },
+ {
+   "rank": 96,
+   "name": "Drone Volt",
+   "annuelMoyen": 66,
+   "threeYears": 354,
+   "commune": "Villepinte (93)",
+   "description": "Conception de nouvelles technologies aériennes et de drones. "
+ },
+ {
+   "rank": 97,
+   "name": "Rak & Spa Services",
+   "annuelMoyen": 65,
+   "threeYears": 350,
+   "commune": "Le Blanc-Mesnil (93)",
+   "description": "Import et distribution agroalimentaire."
+ },
+ {
+   "rank": 98,
+   "name": "Izord",
+   "annuelMoyen": 65,
+   "threeYears": 350,
+   "commune": "Paris (75)",
+   "description": "Vente, location, travaux, gestion locative."
+ },
+ {
+   "rank": 99,
+   "name": "O2Feel",
+   "annuelMoyen": 64,
+   "threeYears": 343,
+   "commune": "Wambrechies (59)",
+   "description": "Conception, commercialisation et maintenance de vélos électriques."
+ },
+ {
+   "rank": 100,
+   "name": "Arcure",
+   "annuelMoyen": 64,
+   "threeYears": 343,
+   "commune": "Pantin (93)",
+   "description": "Conception, fabrication et vente de caméras intelligentes pour véhicules industriels."
+ },
+ {
+   "rank": 101,
+   "name": "3KLES Consulting",
+   "annuelMoyen": 64,
+   "threeYears": 340,
+   "commune": "Paris (75)",
+   "description": "Conseil et intégration de systèmes d’information (SI)."
+ },
+ {
+   "rank": 102,
+   "name": "SARL Gogy",
+   "annuelMoyen": 64,
+   "threeYears": 339,
+   "commune": "Gonesse (95)",
+   "description": "Aménagement d’aires de jeux et de terrains de sports."
+ },
+ {
+   "rank": 103,
+   "name": "Selectra",
+   "annuelMoyen": 63,
+   "threeYears": 335,
+   "commune": "Paris (75)",
+   "description": "Comparateur de fournisseurs d’électricité et de gaz naturel."
+ },
+ {
+   "rank": 104,
+   "name": "Charlidiscount.com (DCLC)",
+   "annuelMoyen": 63,
+   "threeYears": 332,
+   "commune": "Lyon (69)",
+   "description": "Vente de produits multimédia."
+ },
+ {
+   "rank": 105,
+   "name": "Energineo",
+   "annuelMoyen": 63,
+   "threeYears": 329,
+   "commune": "Dardilly (69)",
+   "description": "Diagnostic et mise en place d’éclairages Led pour professionnels."
+ },
+ {
+   "rank": 106,
+   "name": "Clôture ARES",
+   "annuelMoyen": 62,
+   "threeYears": 325,
+   "commune": "L’Union (31)",
+   "description": "Vente de clôtures et portails."
+ },
+ {
+   "rank": 107,
+   "name": "OpenWork/Le Monde Après",
+   "annuelMoyen": 62,
+   "threeYears": 324,
+   "commune": "Paris (75)",
+   "description": "Portage salarial de consultants indépendants."
+ },
+ {
+   "rank": 108,
+   "name": "ISTER",
+   "annuelMoyen": 61,
+   "threeYears": 318,
+   "commune": "Montigny-les-Cormeilles (95)",
+   "description": "Installation de plomberie, chauffage et ventilation dans le bâtiment. "
+ },
+ {
+   "rank": 109,
+   "name": "Avenir Renovations",
+   "annuelMoyen": 60,
+   "threeYears": 313,
+   "commune": "Collégien (77)",
+   "description": "Rénovation de bâtiment."
+ },
+ {
+   "rank": 110,
+   "name": "Castor & Pollux",
+   "annuelMoyen": 60,
+   "threeYears": 309,
+   "commune": "Montreuil (93)",
+   "description": "Agence de communication digitale."
+ },
+ {
+   "rank": 111,
+   "name": "Theodo",
+   "annuelMoyen": 60,
+   "threeYears": 308,
+   "commune": "Paris (75)",
+   "description": "Conseil en SI et développement d’applications web et mobiles."
+ },
+ {
+   "rank": 112,
+   "name": "Redman",
+   "annuelMoyen": 59,
+   "threeYears": 304,
+   "commune": "Paris (75)",
+   "description": "Opérateur immobilier."
+ },
+ {
+   "rank": 113,
+   "name": "Yogurt Factory",
+   "annuelMoyen": 59,
+   "threeYears": 304,
+   "commune": "Paris (75)",
+   "description": "Fabrication et vente de yaourts glacés. "
+ },
+ {
+   "rank": 114,
+   "name": "Transports Lemoine",
+   "annuelMoyen": 59,
+   "threeYears": 303,
+   "commune": "Cerisé (61)",
+   "description": "Service logistique et d’entreposage."
+ },
+ {
+   "rank": 115,
+   "name": "Café Du Cycliste",
+   "annuelMoyen": 59,
+   "threeYears": 302,
+   "commune": "Nice (06)",
+   "description": "Distribution de vêtements et produits liés au cyclisme."
+ },
+ {
+   "rank": 116,
+   "name": "Camping Car Park",
+   "annuelMoyen": 59,
+   "threeYears": 301,
+   "commune": "Pornic (44)",
+   "description": "Réseau d’aires d’étape et d’aires de services pour le stationnement des camping cars."
+ },
+ {
+   "rank": 117,
+   "name": "Groupe Inovefa",
+   "annuelMoyen": 59,
+   "threeYears": 300,
+   "commune": "Paris (75)",
+   "description": "Conseil et vente sur mesure pour les professionnels de l’immobilier."
+ },
+ {
+   "rank": 118,
+   "name": "Opisto (SACEO)",
+   "annuelMoyen": 58,
+   "threeYears": 298,
+   "commune": "Toulouse (31)",
+   "description": "Editeur de logiciels et d’un site web spécialistes de la pièce automobile d’occasion."
+ },
+ {
+   "rank": 119,
+   "name": "Forsis",
+   "annuelMoyen": 57,
+   "threeYears": 287,
+   "commune": "Béziers (34)",
+   "description": "Gestion de patrimoine."
+ },
+ {
+   "rank": 120,
+   "name": "Kappa Offshore Solutions",
+   "annuelMoyen": 57,
+   "threeYears": 287,
+   "commune": "Bayonne (64)",
+   "description": "Services d’ingénierie maritime."
+ },
+ {
+   "rank": 121,
+   "name": "BMB Entreprise Mugnier",
+   "annuelMoyen": 57,
+   "threeYears": 285,
+   "commune": "Sainte-Maxime (83)",
+   "description": "Maçonnerie générale et construction de piscines."
+ },
+ {
+   "rank": 122,
+   "name": "Brasserie Gallia 1890",
+   "annuelMoyen": 57,
+   "threeYears": 285,
+   "commune": "Pantin (93)",
+   "description": "Fabrique de bières artisanales."
+ },
+ {
+   "rank": 123,
+   "name": "Cartes & Services",
+   "annuelMoyen": 56,
+   "threeYears": 282,
+   "commune": "Le Haillan (33)",
+   "description": "Solutions de nettoyage d’espaces de vente ou de travail."
+ },
+ {
+   "rank": 124,
+   "name": "Matooma",
+   "annuelMoyen": 56,
+   "threeYears": 281,
+   "commune": "Pérols (34)",
+   "description": "Solution de gestion industrielle des objets connectés."
+ },
+ {
+   "rank": 125,
+   "name": "ETIC",
+   "annuelMoyen": 56,
+   "threeYears": 279,
+   "commune": "Lyon (69)",
+   "description": "Création et exploitation d’espaces de travail mutualisés pour les acteurs du développement durable. "
+ },
+ {
+   "rank": 126,
+   "name": "Outscale",
+   "annuelMoyen": 55,
+   "threeYears": 275,
+   "commune": "Saint-Cloud (92)",
+   "description": "Services d’infrastructure Cloud Computing (IaaS)."
+ },
+ {
+   "rank": 127,
+   "name": "Neteem",
+   "annuelMoyen": 55,
+   "threeYears": 269,
+   "commune": "Maisons-Laffitte (78)",
+   "description": "Portage salarial."
+ },
+ {
+   "rank": 128,
+   "name": "Quantmetry",
+   "annuelMoyen": 54,
+   "threeYears": 267,
+   "commune": "Paris (75)",
+   "description": "Conseil en transformation data et intelligence artificielle."
+ },
+ {
+   "rank": 129,
+   "name": "Reunion Portage",
+   "annuelMoyen": 54,
+   "threeYears": 265,
+   "commune": "La Possession (97)",
+   "description": "Entreprise de portage salarial."
+ },
+ {
+   "rank": 130,
+   "name": "Web Geo Services",
+   "annuelMoyen": 54,
+   "threeYears": 264,
+   "commune": "Montpellier (34)",
+   "description": "Edition d’une plateforme de géolocalisation des clients."
+ },
+ {
+   "rank": 131,
+   "name": "Ecogreenenergy",
+   "annuelMoyen": 54,
+   "threeYears": 264,
+   "commune": "Strasbourg (67)",
+   "description": "Conception et mise en place de solutions de revalorisation d’énergie."
+ },
+ {
+   "rank": 132,
+   "name": "Eurovanille",
+   "annuelMoyen": 54,
+   "threeYears": 263,
+   "commune": "Gouy-Saint-André (62)",
+   "description": "Production et transformation de vanille naturelle."
+ },
+ {
+   "rank": 133,
+   "name": "Adservio",
+   "annuelMoyen": 53,
+   "threeYears": 257,
+   "commune": "Paris (75)",
+   "description": "Conseil en informatique et nouvelles technologies."
+ },
+ {
+   "rank": 134,
+   "name": "Amiltone",
+   "annuelMoyen": 53,
+   "threeYears": 256,
+   "commune": "Villeurbanne (69)",
+   "description": "Conseil en ingénierie industrielle et en systèmes d’information."
+ },
+ {
+   "rank": 135,
+   "name": "Nature Dog",
+   "annuelMoyen": 52,
+   "threeYears": 254,
+   "commune": "La Roche-des-Arnauds (05)",
+   "description": "Vente d’alimentation et accessoires pour chiens et chats."
+ },
+ {
+   "rank": 136,
+   "name": "Eco Bat",
+   "annuelMoyen": 52,
+   "threeYears": 248,
+   "commune": "Charnay-lès-Mâcon (71)",
+   "description": "Rénovation énergétique."
+ },
+ {
+   "rank": 137,
+   "name": "S4M",
+   "annuelMoyen": 52,
+   "threeYears": 248,
+   "commune": "Paris (75)",
+   "description": "Adtech spécialisée dans l’analyse et l’optimisation du trafic sur mobile. "
+ },
+ {
+   "rank": 138,
+   "name": "SARL Rcube",
+   "annuelMoyen": 51,
+   "threeYears": 246,
+   "commune": "Lyon (69)",
+   "description": "Travaux de menuiserie métallique et serrurerie."
+ },
+ {
+   "rank": 139,
+   "name": "EPI Group",
+   "annuelMoyen": 51,
+   "threeYears": 246,
+   "commune": "Osny (95)",
+   "description": "Exploration pour l’industrie du pétrole et du gaz. "
+ },
+ {
+   "rank": 140,
+   "name": "Acanthe Conseil",
+   "annuelMoyen": 51,
+   "threeYears": 242,
+   "commune": "Paris (75)",
+   "description": "Conseil en finance de marché."
+ },
+ {
+   "rank": 141,
+   "name": "PumpUp",
+   "annuelMoyen": 50,
+   "threeYears": 240,
+   "commune": "Paris (75)",
+   "description": "Conseil marketing en ligne et e-business."
+ },
+ {
+   "rank": 142,
+   "name": "Panenka",
+   "annuelMoyen": 50,
+   "threeYears": 238,
+   "commune": "Paris (75)",
+   "description": "Agence de communication événementielle."
+ },
+ {
+   "rank": 143,
+   "name": "EPJ",
+   "annuelMoyen": 50,
+   "threeYears": 237,
+   "commune": "Seyssinet-Pariset (38)",
+   "description": "Installation électrique dans les constructions neuves en logements collectifs."
+ },
+ {
+   "rank": 144,
+   "name": "Atelier Philéas",
+   "annuelMoyen": 49,
+   "threeYears": 233,
+   "commune": "Paris (75)",
+   "description": "Atelier d’architecture."
+ },
+ {
+   "rank": 145,
+   "name": "Guarani",
+   "annuelMoyen": 49,
+   "threeYears": 233,
+   "commune": "Lyon (69)",
+   "description": "Ingénierie en services numériques. "
+ },
+ {
+   "rank": 146,
+   "name": "Wabel",
+   "annuelMoyen": 49,
+   "threeYears": 232,
+   "commune": "Paris (75)",
+   "description": "Marketplace dédiée aux marques de distributeurs."
+ },
+ {
+   "rank": 147,
+   "name": "Pay Job Intérim",
+   "annuelMoyen": 49,
+   "threeYears": 232,
+   "commune": "Paris (75)",
+   "description": "Recrutement et travail temporaire des métiers de la paie."
+ },
+ {
+   "rank": 148,
+   "name": "Metsys",
+   "annuelMoyen": 49,
+   "threeYears": 231,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Gestion des plateformes et solutions Microsoft pour grands comptes."
+ },
+ {
+   "rank": 149,
+   "name": "Nova Consulting",
+   "annuelMoyen": 49,
+   "threeYears": 230,
+   "commune": "Paris (75)",
+   "description": "Conseil en stratégie."
+ },
+ {
+   "rank": 150,
+   "name": "Obiz Concept",
+   "annuelMoyen": 48,
+   "threeYears": 226,
+   "commune": "Lyon (69)",
+   "description": "Solution de marketing relationnel."
+ },
+ {
+   "rank": 151,
+   "name": "Novaxia",
+   "annuelMoyen": 48,
+   "threeYears": 223,
+   "commune": "Paris (75)",
+   "description": "Fonds de développement immobilier."
+ },
+ {
+   "rank": 152,
+   "name": "Sofidys",
+   "annuelMoyen": 47,
+   "threeYears": 220,
+   "commune": "Plérin (22)",
+   "description": "Vente de téléphones et accessoires mobiles usagés."
+ },
+ {
+   "rank": 153,
+   "name": "Exrod",
+   "annuelMoyen": 47,
+   "threeYears": 219,
+   "commune": "Chanteloup-les-Vignes (78)",
+   "description": "Conception et fabrication de matériel de rodage pour l’industrie automobile."
+ },
+ {
+   "rank": 154,
+   "name": "Ecolog innovation",
+   "annuelMoyen": 47,
+   "threeYears": 219,
+   "commune": "Libercourt (62)",
+   "description": "Conception et fabrication de protection pour les batiments logistiques et industriels."
+ },
+ {
+   "rank": 155,
+   "name": "L’Exception",
+   "annuelMoyen": 47,
+   "threeYears": 216,
+   "commune": "Paris (75)",
+   "description": "Vente de prêt-à-porter haut de gamme. "
+ },
+ {
+   "rank": 156,
+   "name": "Emmayli",
+   "annuelMoyen": 47,
+   "threeYears": 216,
+   "commune": "Paris (75)",
+   "description": "Vente de tissus."
+ },
+ {
+   "rank": 157,
+   "name": "Wito",
+   "annuelMoyen": 46,
+   "threeYears": 212,
+   "commune": "Paris (75)",
+   "description": "Rénovation d’appartements à Paris."
+ },
+ {
+   "rank": 158,
+   "name": "Biogroupe",
+   "annuelMoyen": 46,
+   "threeYears": 212,
+   "commune": "Erquy (22)",
+   "description": "Fabricant et distributeur de boissons et desserts végétaux biologiques et équitables."
+ },
+ {
+   "rank": 159,
+   "name": "Alphadiab",
+   "annuelMoyen": 46,
+   "threeYears": 212,
+   "commune": "Villennes-sur-Seine (78)",
+   "description": "Vente de matériel médical pour diabétiques."
+ },
+ {
+   "rank": 160,
+   "name": "Action pour le Développement Numérique",
+   "annuelMoyen": 46,
+   "threeYears": 210,
+   "commune": "Lunel (34)",
+   "description": "Commerce de composants et d’équipements électroniques en Afrique subsaharienne."
+ },
+ {
+   "rank": 161,
+   "name": "Inside Group",
+   "annuelMoyen": 46,
+   "threeYears": 210,
+   "commune": "Toulouse (31)",
+   "description": "Solutions pour dynamiser les systèmes d’information."
+ },
+ {
+   "rank": 162,
+   "name": "Verso Healthcare",
+   "annuelMoyen": 46,
+   "threeYears": 209,
+   "commune": "Saint-Gratien (95)",
+   "description": "Financement des équipements médicaux."
+ },
+ {
+   "rank": 163,
+   "name": "Tbmaestro",
+   "annuelMoyen": 45,
+   "threeYears": 206,
+   "commune": "Paris (75)",
+   "description": "Gestion d’actifs physiques : bâtiments et infrastructures urbaines et industrielles. "
+ },
+ {
+   "rank": 164,
+   "name": "Ad’s up Consulting",
+   "annuelMoyen": 45,
+   "threeYears": 205,
+   "commune": "Paris (75)",
+   "description": "Agence de communication."
+ },
+ {
+   "rank": 165,
+   "name": "mabonneviande.com",
+   "annuelMoyen": 44,
+   "threeYears": 201,
+   "commune": "Lons (64)",
+   "description": "Distribution et vente de viande en demi-gros et détail."
+ },
+ {
+   "rank": 166,
+   "name": "Buyingpeers",
+   "annuelMoyen": 44,
+   "threeYears": 201,
+   "commune": "Paris (75)",
+   "description": "Conseil et formations pour la fonction Achats."
+ },
+ {
+   "rank": 167,
+   "name": "Emballage Industrie Cconcept",
+   "annuelMoyen": 44,
+   "threeYears": 200,
+   "commune": "Limonest (69)",
+   "description": "Fournisseur d’emballages pour les grands comptes."
+ },
+ {
+   "rank": 168,
+   "name": "Les Couvreurs Occitans",
+   "annuelMoyen": 44,
+   "threeYears": 199,
+   "commune": "Auribail (31)",
+   "description": "Entreprise de couvreurs, zingueurs et charpentiers qualifiés."
+ },
+ {
+   "rank": 169,
+   "name": "Gamned!",
+   "annuelMoyen": 44,
+   "threeYears": 198,
+   "commune": "Paris (75)",
+   "description": "Conseil en marketing digital."
+ },
+ {
+   "rank": 170,
+   "name": "Horizon Couverture Ravalement",
+   "annuelMoyen": 44,
+   "threeYears": 197,
+   "commune": "Houilles (78)",
+   "description": "Ravalement de façades et isolation thermique."
+ },
+ {
+   "rank": 171,
+   "name": "Assainissement Travaux Publics Roubaisien (ATPR)",
+   "annuelMoyen": 44,
+   "threeYears": 196,
+   "commune": "Roubaix (59)",
+   "description": "Travaux publics, assainissement, désamiantage, déplombage, dépollution."
+ },
+ {
+   "rank": 172,
+   "name": "Wallix Group",
+   "annuelMoyen": 43,
+   "threeYears": 191,
+   "commune": "Paris (75)",
+   "description": "Editeur de logiciels de sécurité informatique."
+ },
+ {
+   "rank": 173,
+   "name": "Welljob",
+   "annuelMoyen": 43,
+   "threeYears": 190,
+   "commune": "Biot (06)",
+   "description": "Recrutement, gestion et délégation de personnel aux entreprises."
+ },
+ {
+   "rank": 174,
+   "name": "IMMO9",
+   "annuelMoyen": 42,
+   "threeYears": 188,
+   "commune": "Toulouse (31)",
+   "description": "Courtier en immobilier neuf."
+ },
+ {
+   "rank": 175,
+   "name": "Bartle",
+   "annuelMoyen": 42,
+   "threeYears": 188,
+   "commune": "Paris (75)",
+   "description": "Audit et conseil en efficacité opérationnelle."
+ },
+ {
+   "rank": 176,
+   "name": "Procemo",
+   "annuelMoyen": 42,
+   "threeYears": 188,
+   "commune": "Toulouse (31)",
+   "description": "Conseil en achats et supply chain."
+ },
+ {
+   "rank": 177,
+   "name": "EIF innovation",
+   "annuelMoyen": 42,
+   "threeYears": 187,
+   "commune": "Paris (75)",
+   "description": "Conseil en financement et management de l’innovation."
+ },
+ {
+   "rank": 178,
+   "name": "Cap Adresse",
+   "annuelMoyen": 42,
+   "threeYears": 185,
+   "commune": "Enghien-les-Bains (95)",
+   "description": "Conception et vente de solutions pour la gestion de données clients."
+ },
+ {
+   "rank": 179,
+   "name": "Groupe Builders And Partners",
+   "annuelMoyen": 42,
+   "threeYears": 183,
+   "commune": "Sèvres (92)",
+   "description": "Activité d’architecture et d’ingénierie."
+ },
+ {
+   "rank": 180,
+   "name": "Alterfood",
+   "annuelMoyen": 41,
+   "threeYears": 183,
+   "commune": "Paris (75)",
+   "description": "Développement et création de produits alimentaires bio et naturels."
+ },
+ {
+   "rank": 181,
+   "name": "Enertime",
+   "annuelMoyen": 41,
+   "threeYears": 182,
+   "commune": "Courbevoie (92)",
+   "description": "Solutions énergétiques à partir des ressources renouvelables. "
+ },
+ {
+   "rank": 182,
+   "name": "Artheau Aviation",
+   "annuelMoyen": 41,
+   "threeYears": 181,
+   "commune": "Paris (75)",
+   "description": "Courtage et conseil en affrètement aéronautique."
+ },
+ {
+   "rank": 183,
+   "name": "Kinougarde",
+   "annuelMoyen": 41,
+   "threeYears": 180,
+   "commune": "Paris (75)",
+   "description": "Garde d’enfants à domicile."
+ },
+ {
+   "rank": 184,
+   "name": "Edition Bougainville",
+   "annuelMoyen": 41,
+   "threeYears": 177,
+   "commune": "Le Cannet (06)",
+   "description": "Conception, création et fabrication de tapis haut de gamme."
+ },
+ {
+   "rank": 185,
+   "name": "Risk Control",
+   "annuelMoyen": 40,
+   "threeYears": 177,
+   "commune": "Levallois-Perret (92)",
+   "description": "Bureau de contrôle technique du bâtiment."
+ },
+ {
+   "rank": 186,
+   "name": "Adyoulike",
+   "annuelMoyen": 40,
+   "threeYears": 176,
+   "commune": "Paris (75)",
+   "description": "Adtech spécialisée dans le native advertising."
+ },
+ {
+   "rank": 187,
+   "name": "Zoomalia",
+   "annuelMoyen": 40,
+   "threeYears": 175,
+   "commune": "Seignosse (40)",
+   "description": "Animalerie en ligne. "
+ },
+ {
+   "rank": 188,
+   "name": "Cesbron TP",
+   "annuelMoyen": 40,
+   "threeYears": 175,
+   "commune": "Craywick (59)",
+   "description": "BTP."
+ },
+ {
+   "rank": 189,
+   "name": "Distrib Etik",
+   "annuelMoyen": 40,
+   "threeYears": 174,
+   "commune": "Toulouse (31)",
+   "description": "Vente d’articles de puériculture en ligne et en boutique. "
+ },
+ {
+   "rank": 190,
+   "name": "Groupe Quanteam",
+   "annuelMoyen": 40,
+   "threeYears": 172,
+   "commune": "Paris (75)",
+   "description": "Conseil en finance, assurance et tranformation digitale."
+ },
+ {
+   "rank": 191,
+   "name": "Logisseo",
+   "annuelMoyen": 39,
+   "threeYears": 171,
+   "commune": "Angers (49)",
+   "description": "Transport et logistique."
+ },
+ {
+   "rank": 192,
+   "name": "Adomos",
+   "annuelMoyen": 39,
+   "threeYears": 170,
+   "commune": "Paris (75)",
+   "description": "Marketing et vente d’immobilier. "
+ },
+ {
+   "rank": 193,
+   "name": "A-Volute",
+   "annuelMoyen": 39,
+   "threeYears": 168,
+   "commune": "Villeneuve-d’Ascq (59)",
+   "description": "Fournisseur de technologie audio 3D."
+ },
+ {
+   "rank": 194,
+   "name": "Experts People",
+   "annuelMoyen": 39,
+   "threeYears": 167,
+   "commune": "Vaucresson (92)",
+   "description": "Société de portage salarial."
+ },
+ {
+   "rank": 195,
+   "name": "Captivea",
+   "annuelMoyen": 38,
+   "threeYears": 164,
+   "commune": "Chambéry (73)",
+   "description": "Intégration de logiciels de gestion d’entreprise."
+ },
+ {
+   "rank": 196,
+   "name": "IVO Capital Partners",
+   "annuelMoyen": 38,
+   "threeYears": 164,
+   "commune": "Paris (75)",
+   "description": "Société de gestion spécialisée sur le marché de la dette."
+ },
+ {
+   "rank": 197,
+   "name": "Bébé Boutik",
+   "annuelMoyen": 38,
+   "threeYears": 163,
+   "commune": "Colomiers (31)",
+   "description": "Site de ventes privées pour bébés et enfants (0-12 ans)."
+ },
+ {
+   "rank": 198,
+   "name": "Script And Go",
+   "annuelMoyen": 38,
+   "threeYears": 163,
+   "commune": "Rennes (37)",
+   "description": "Edition de logiciels pour entreprises."
+ },
+ {
+   "rank": 199,
+   "name": "Spécialiste Bois Matériaux",
+   "annuelMoyen": 38,
+   "threeYears": 162,
+   "commune": "Pornic (44)",
+   "description": "Négoce en bois et dérivés. "
+ },
+ {
+   "rank": 200,
+   "name": "Agence Verywell",
+   "annuelMoyen": 38,
+   "threeYears": 162,
+   "commune": "Toulouse (31)",
+   "description": "Agence de communication. "
+ },
+ {
+   "rank": 201,
+   "name": "Atlante",
+   "annuelMoyen": 38,
+   "threeYears": 162,
+   "commune": "Neuilly-sur-Seine (92)",
+   "description": "Conseil en stratégie opérationnelle."
+ },
+ {
+   "rank": 202,
+   "name": "Klocel",
+   "annuelMoyen": 38,
+   "threeYears": 161,
+   "commune": "Ver-les-Chartres (28)",
+   "description": "Prestataire de services dans l’informatique logistique."
+ },
+ {
+   "rank": 203,
+   "name": "1 Blow",
+   "annuelMoyen": 38,
+   "threeYears": 161,
+   "commune": "Chars (95)",
+   "description": "Fabrication de machines pour le travail du caoutchouc ou des plastiques."
+ },
+ {
+   "rank": 204,
+   "name": "Lease Protect France",
+   "annuelMoyen": 37,
+   "threeYears": 160,
+   "commune": "Marseille (13)",
+   "description": "Dispositifs contre la démarque inconnue."
+ },
+ {
+   "rank": 205,
+   "name": "Pure Gaming",
+   "annuelMoyen": 37,
+   "threeYears": 158,
+   "commune": "Dourdan (91)",
+   "description": "Vente de matériel informatique pour le gaming et l’e-sport."
+ },
+ {
+   "rank": 206,
+   "name": "Néosanté",
+   "annuelMoyen": 37,
+   "threeYears": 158,
+   "commune": "Salon-de-Provence (13)",
+   "description": "Location et vente de matériel médical."
+ },
+ {
+   "rank": 207,
+   "name": "Groupe Voltaire",
+   "annuelMoyen": 37,
+   "threeYears": 157,
+   "commune": "Bidart (64)",
+   "description": "Vente de selles d’équitation haut de gamme sur mesure. "
+ },
+ {
+   "rank": 208,
+   "name": "Cedrus Partners",
+   "annuelMoyen": 37,
+   "threeYears": 157,
+   "commune": "Paris (75)",
+   "description": "Conseil en investissements financiers."
+ },
+ {
+   "rank": 209,
+   "name": "Astree Software",
+   "annuelMoyen": 37,
+   "threeYears": 157,
+   "commune": "Saint-Jean-Bonnefonds (42)",
+   "description": "Edition et intégration de logiciel MES de suivi de production."
+ },
+ {
+   "rank": 210,
+   "name": "Harmony Aerospace France",
+   "annuelMoyen": 37,
+   "threeYears": 157,
+   "commune": "Cugnaux (31)",
+   "description": "Distributeur et stockiste en pièces aéronautiques."
+ },
+ {
+   "rank": 211,
+   "name": "Groupe Eleven",
+   "annuelMoyen": 37,
+   "threeYears": 156,
+   "commune": "Paris (75)",
+   "description": "Création de sites web."
+ },
+ {
+   "rank": 212,
+   "name": "BSK Immobilier",
+   "annuelMoyen": 37,
+   "threeYears": 156,
+   "commune": "Toulouse (31)",
+   "description": "Réseau de mandataires en immobilier."
+ },
+ {
+   "rank": 213,
+   "name": "Tiger Grip Engineering",
+   "annuelMoyen": 37,
+   "threeYears": 156,
+   "commune": "Beauzelle (31)",
+   "description": "Conception et fabrication de sur-chaussures"
+ },
+ {
+   "rank": 214,
+   "name": "Sequans Communications",
+   "annuelMoyen": 37,
+   "threeYears": 155,
+   "commune": "Colombes (92)",
+   "description": "Fournisseur de semi conducteurs 4G"
+ },
+ {
+   "rank": 215,
+   "name": "Cosm’Etika France",
+   "annuelMoyen": 36,
+   "threeYears": 154,
+   "commune": "Genissieux (26)",
+   "description": "Création et distribution des marque de cosmétiques biologiques."
+ },
+ {
+   "rank": 216,
+   "name": "Wretman Estate & Consulting",
+   "annuelMoyen": 36,
+   "threeYears": 152,
+   "commune": "Cannes (06)",
+   "description": "Agence immobilière spécialisée dans le conseil aux clients étrangers et plus spécifiquement la clientèle scandinave."
+ },
+ {
+   "rank": 217,
+   "name": "REXIA",
+   "annuelMoyen": 36,
+   "threeYears": 151,
+   "commune": "Venissieux (69)",
+   "description": "Société de conseil en ingénierie industrielle."
+ },
+ {
+   "rank": 218,
+   "name": "ATOO",
+   "annuelMoyen": 36,
+   "threeYears": 151,
+   "commune": "Bouillargues (30)",
+   "description": "Editeur de logiciel de gestion et d’encaissement destiné aux commerçants."
+ },
+ {
+   "rank": 219,
+   "name": "TeamTO",
+   "annuelMoyen": 36,
+   "threeYears": 151,
+   "commune": "Paris (75)",
+   "description": "Production de série TV, développement de jeux vidéo."
+ },
+ {
+   "rank": 220,
+   "name": "VISIATIV",
+   "annuelMoyen": 36,
+   "threeYears": 150,
+   "commune": "Charbonnières-les-Bains (69)",
+   "description": "Éditeur et intégrateur de solutions logicielles."
+ },
+ {
+   "rank": 221,
+   "name": "Créabois77",
+   "annuelMoyen": 36,
+   "threeYears": 149,
+   "commune": "Pringy (77)",
+   "description": "Construction de bâtiments en bois et travaux de charpente."
+ },
+ {
+   "rank": 222,
+   "name": "Insight SiP",
+   "annuelMoyen": 35,
+   "threeYears": 148,
+   "commune": "Grasse (06)",
+   "description": "Fournisseur de composants électroniques pour les objets connectés. "
+ },
+ {
+   "rank": 223,
+   "name": "Envoliis",
+   "annuelMoyen": 35,
+   "threeYears": 148,
+   "commune": "Boufféré (85)",
+   "description": "Société d’ingénierie des systèmes et réseaux informatiques spécialisée dans les services d’hébergement Cloud."
+ },
+ {
+   "rank": 224,
+   "name": "Envisol",
+   "annuelMoyen": 35,
+   "threeYears": 147,
+   "commune": "La Tour-du-Pin (38)",
+   "description": "Entreprise spécialisée dans le conseil et l’ingénierie offrant des prestations dans le domaine des sites et sols pollués."
+ },
+ {
+   "rank": 225,
+   "name": "Unista",
+   "annuelMoyen": 35,
+   "threeYears": 146,
+   "commune": "Treize-Septiers (85)",
+   "description": "Conception de machines d’emballage robotisées."
+ },
+ {
+   "rank": 226,
+   "name": "Open Digital Education",
+   "annuelMoyen": 35,
+   "threeYears": 146,
+   "commune": "Paris (75)",
+   "description": "Editeur d’un réseau social éducatif sécurisé pour l’école, le collège et le lycée."
+ },
+ {
+   "rank": 227,
+   "name": "L’Agence Marie-Antoinette",
+   "annuelMoyen": 35,
+   "threeYears": 144,
+   "commune": "Paris (75)",
+   "description": "Communication et relations publiques."
+ },
+ {
+   "rank": 228,
+   "name": "Institut de Formation à la Sophrologie",
+   "annuelMoyen": 35,
+   "threeYears": 144,
+   "commune": "Paris (75)",
+   "description": "Ecole de formation à la sophrologie."
+ },
+ {
+   "rank": 229,
+   "name": "Aston And Crown",
+   "annuelMoyen": 34,
+   "threeYears": 143,
+   "commune": "Nice (06)",
+   "description": "Magasin de chaussures."
+ },
+ {
+   "rank": 230,
+   "name": "Xelya",
+   "annuelMoyen": 34,
+   "threeYears": 143,
+   "commune": "Saint-Cloud (92)",
+   "description": "Editeur de systèmes d’information pour les PME."
+ },
+ {
+   "rank": 231,
+   "name": "Vauvert Froger",
+   "annuelMoyen": 34,
+   "threeYears": 142,
+   "commune": "Noyen-sur-Sarthe (72)",
+   "description": "Vente de produits issus du déstockage alimentaire."
+ },
+ {
+   "rank": 232,
+   "name": "Formind",
+   "annuelMoyen": 34,
+   "threeYears": 142,
+   "commune": "Issy-les-Moulineaux (92)",
+   "description": "Conseil en intelligence du risque et sécurité de l’information."
+ },
+ {
+   "rank": 233,
+   "name": "Capital Bois",
+   "annuelMoyen": 34,
+   "threeYears": 142,
+   "commune": "Aillas (33)",
+   "description": "Négoce de bois et dérivés pour la construction."
+ },
+ {
+   "rank": 234,
+   "name": "Ecoslops",
+   "annuelMoyen": 34,
+   "threeYears": 141,
+   "commune": "Paris (75)",
+   "description": "Solution de raffinage destinée aux résidus pétroliers."
+ },
+ {
+   "rank": 235,
+   "name": "Monet + Associés",
+   "annuelMoyen": 34,
+   "threeYears": 141,
+   "commune": "Lyon (69)",
+   "description": "Agence de relations publiques."
+ },
+ {
+   "rank": 236,
+   "name": "Eole Consulting",
+   "annuelMoyen": 34,
+   "threeYears": 141,
+   "commune": "Blagnac (31)",
+   "description": "Conseil en IT."
+ },
+ {
+   "rank": 237,
+   "name": "Ivalua",
+   "annuelMoyen": 34,
+   "threeYears": 140,
+   "commune": "Orsay (91)",
+   "description": "Solution de gestion des achats."
+ },
+ {
+   "rank": 238,
+   "name": "Arcitek",
+   "annuelMoyen": 34,
+   "threeYears": 140,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Spécialiste de la gestion des données."
+ },
+ {
+   "rank": 239,
+   "name": "eCycle and more",
+   "annuelMoyen": 34,
+   "threeYears": 139,
+   "commune": "Saint-Pavace (72)",
+   "description": "Distributeur de vélos et scooters électriques."
+ },
+ {
+   "rank": 240,
+   "name": "Firm Studio",
+   "annuelMoyen": 34,
+   "threeYears": 139,
+   "commune": "Paris (75)",
+   "description": "Studio visuel dédié à la post-production de films."
+ },
+ {
+   "rank": 241,
+   "name": "Domaines Pierre Chavin",
+   "annuelMoyen": 33,
+   "threeYears": 136,
+   "commune": "Béziers (34)",
+   "description": "Production et négoce en vin."
+ },
+ {
+   "rank": 242,
+   "name": "Destruction Gaillon Automobile DGA",
+   "annuelMoyen": 33,
+   "threeYears": 135,
+   "commune": "Gaillon (27)",
+   "description": "Valorisation des déchets industriels."
+ },
+ {
+   "rank": 243,
+   "name": "Hesus",
+   "annuelMoyen": 33,
+   "threeYears": 134,
+   "commune": "Ivry-sur-Seine (94)",
+   "description": "Solutions de dépollution de zones urbaines."
+ },
+ {
+   "rank": 244,
+   "name": "Hiq Consulting",
+   "annuelMoyen": 33,
+   "threeYears": 133,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Conseil en ingénierie."
+ },
+ {
+   "rank": 245,
+   "name": "Via Numerica",
+   "annuelMoyen": 32,
+   "threeYears": 132,
+   "commune": "Archamps (74)",
+   "description": "Opérateur télécom et hébergeur."
+ },
+ {
+   "rank": 246,
+   "name": "SIB Ouest",
+   "annuelMoyen": 32,
+   "threeYears": 132,
+   "commune": "Saint-Grégoire (35)",
+   "description": "Solutions informatiques pour les professionnels."
+ },
+ {
+   "rank": 247,
+   "name": "Brain Value",
+   "annuelMoyen": 32,
+   "threeYears": 131,
+   "commune": "Paris (75)",
+   "description": "Cabinet d’études et de planning stratégique."
+ },
+ {
+   "rank": 248,
+   "name": "Actimodul",
+   "annuelMoyen": 32,
+   "threeYears": 131,
+   "commune": "Chavanay (42)",
+   "description": "Spécialiste de la construction hors site."
+ },
+ {
+   "rank": 249,
+   "name": "Castalie",
+   "annuelMoyen": 32,
+   "threeYears": 131,
+   "commune": "Issy-les-Moulineaux (92)",
+   "description": "Conception de fontaines d’eau micro-filtrée pour hôtels, restaurants et entreprises."
+ },
+ {
+   "rank": 250,
+   "name": "Cojecom",
+   "annuelMoyen": 32,
+   "threeYears": 130,
+   "commune": "Villeurbanne (69)",
+   "description": "Agence de communication digitale."
+ },
+ {
+   "rank": 251,
+   "name": "Smartview",
+   "annuelMoyen": 32,
+   "threeYears": 130,
+   "commune": "Montpellier (34)",
+   "description": "Conseil en organisation et transition digitale."
+ },
+ {
+   "rank": 252,
+   "name": "Insign",
+   "annuelMoyen": 32,
+   "threeYears": 130,
+   "commune": "Lyon (69)",
+   "description": "Agence de Business Hacking."
+ },
+ {
+   "rank": 253,
+   "name": "Alphyr",
+   "annuelMoyen": 32,
+   "threeYears": 130,
+   "commune": "Paris (75)",
+   "description": "Franchiseur d’agences de recrutement et d’intérim."
+ },
+ {
+   "rank": 254,
+   "name": "Uptoo",
+   "annuelMoyen": 32,
+   "threeYears": 129,
+   "commune": "Paris (75)",
+   "description": "Cabinet de recrutement spécialisé dans les métiers de la vente."
+ },
+ {
+   "rank": 255,
+   "name": "Home Plus",
+   "annuelMoyen": 32,
+   "threeYears": 128,
+   "commune": "Paris (75)",
+   "description": "Chauffage, climatisation, énergies renouvelables dans l’habitat."
+ },
+ {
+   "rank": 256,
+   "name": "French Boat Market",
+   "annuelMoyen": 32,
+   "threeYears": 128,
+   "commune": "Mandelieu-la-Napoule (06)",
+   "description": "Distribution de bateaux à moteur à usage professionnel."
+ },
+ {
+   "rank": 257,
+   "name": "Plug In Digital",
+   "annuelMoyen": 32,
+   "threeYears": 128,
+   "commune": "Fresnes (94)",
+   "description": "Edition et distribution de jeux vidéo sur PC, mobile et console de jeux."
+ },
+ {
+   "rank": 258,
+   "name": "Groupe Adwork’s",
+   "annuelMoyen": 31,
+   "threeYears": 126,
+   "commune": "Orléans (45)",
+   "description": "Recrutement et travail temporaire."
+ },
+ {
+   "rank": 259,
+   "name": "Bulktrans Pack",
+   "annuelMoyen": 31,
+   "threeYears": 126,
+   "commune": "Arnas (69)",
+   "description": "Fournisseur d’emballages industriels pour le transport maritime et aérien."
+ },
+ {
+   "rank": 260,
+   "name": "Sekoia",
+   "annuelMoyen": 31,
+   "threeYears": 126,
+   "commune": "Paris (75)",
+   "description": "Solutions de prévention des cyber-risques et de réponse aux cyber-attaques."
+ },
+ {
+   "rank": 261,
+   "name": "The Way Of Wine",
+   "annuelMoyen": 31,
+   "threeYears": 125,
+   "commune": "Narbonne (11)",
+   "description": "Négociant de vins."
+ },
+ {
+   "rank": 262,
+   "name": "FCM Travel Solutions",
+   "annuelMoyen": 31,
+   "threeYears": 124,
+   "commune": "Paris (75)",
+   "description": "Agence de voyages d’affaire."
+ },
+ {
+   "rank": 263,
+   "name": "Axo et Actifs",
+   "annuelMoyen": 30,
+   "threeYears": 122,
+   "commune": "La Bruffière (85)",
+   "description": "Réseau d’agences immobilières."
+ },
+ {
+   "rank": 264,
+   "name": "Winergia",
+   "annuelMoyen": 30,
+   "threeYears": 122,
+   "commune": "Marseille (13)",
+   "description": "Conseil en efficacité énergétique."
+ },
+ {
+   "rank": 265,
+   "name": "Flexmind",
+   "annuelMoyen": 30,
+   "threeYears": 122,
+   "commune": "Paris (75)",
+   "description": "Conseil, intégration et support de solutions ERP et CRM."
+ },
+ {
+   "rank": 266,
+   "name": "Wavestone",
+   "annuelMoyen": 30,
+   "threeYears": 121,
+   "commune": "Paris-La-Défense (92)",
+   "description": "Conseil en transformation des entreprises. "
+ },
+ {
+   "rank": 267,
+   "name": "Idf Laser",
+   "annuelMoyen": 30,
+   "threeYears": 120,
+   "commune": "Bonneval (28)",
+   "description": "Entreprise de sous-traitance industrielle."
+ },
+ {
+   "rank": 268,
+   "name": "On-E-Nergy",
+   "annuelMoyen": 30,
+   "threeYears": 120,
+   "commune": "Marseille (13)",
+   "description": "Fournisseur de gaz et électricité."
+ },
+ {
+   "rank": 269,
+   "name": "Consogarage.com",
+   "annuelMoyen": 30,
+   "threeYears": 119,
+   "commune": "Toulouse (31)",
+   "description": "Vente en ligne d’outillage de garages automobiles"
+ },
+ {
+   "rank": 270,
+   "name": "Sarawak",
+   "annuelMoyen": 30,
+   "threeYears": 119,
+   "commune": "Issy-les-Moulineaux (92)",
+   "description": "Communication, promotion et force de vente."
+ },
+ {
+   "rank": 271,
+   "name": "Startx",
+   "annuelMoyen": 29,
+   "threeYears": 117,
+   "commune": "Nanterre (92)",
+   "description": "SSII spécialisée dans les projets IT."
+ },
+ {
+   "rank": 272,
+   "name": "Inoveos",
+   "annuelMoyen": 29,
+   "threeYears": 116,
+   "commune": "Brive-la-Gaillarde (19)",
+   "description": "Conception de composants et systèmes hyperfréquences et de solutions de prototypage rapides de circuits électroniques."
+ },
+ {
+   "rank": 273,
+   "name": "EVA Group",
+   "annuelMoyen": 29,
+   "threeYears": 116,
+   "commune": "Paris (75)",
+   "description": "Conseil en infrastructures, Cloud et cybersécurité."
+ },
+ {
+   "rank": 274,
+   "name": "Lucca",
+   "annuelMoyen": 29,
+   "threeYears": 116,
+   "commune": "Paris (75)",
+   "description": "Editeur de logiciels RH."
+ },
+ {
+   "rank": 275,
+   "name": "Couteauxduchef.com",
+   "annuelMoyen": 29,
+   "threeYears": 116,
+   "commune": "Mandelieu (06)",
+   "description": "Vente en ligne de couteaux et accessoires de cuisines."
+ },
+ {
+   "rank": 276,
+   "name": "Grand Large Yachting",
+   "annuelMoyen": 29,
+   "threeYears": 115,
+   "commune": "Cherbourg-en-Cotentin (50)",
+   "description": "Constrution navale."
+ },
+ {
+   "rank": 277,
+   "name": "Alertgasoil",
+   "annuelMoyen": 29,
+   "threeYears": 114,
+   "commune": "Marseille (13)",
+   "description": "Solution de mesure et de contrôle des réservoirs de carburants pour la réduction des gazs à effet de serre."
+ },
+ {
+   "rank": 278,
+   "name": "Kiece",
+   "annuelMoyen": 29,
+   "threeYears": 113,
+   "commune": "Amiens (80)",
+   "description": "Solutions de surveillance électronique. "
+ },
+ {
+   "rank": 279,
+   "name": "Terre et Lac conseil",
+   "annuelMoyen": 29,
+   "threeYears": 112,
+   "commune": "Lyon (69)",
+   "description": "Cabinet de conseil spécialisé dans les énergies renouvelables."
+ },
+ {
+   "rank": 280,
+   "name": "Lutessa",
+   "annuelMoyen": 29,
+   "threeYears": 112,
+   "commune": "Paris (75)",
+   "description": "Entreprise d’ingénierie et d’expertise spécialisée dans l’étude, l’intégration et la gestion des infrastructures critiques. "
+ },
+ {
+   "rank": 281,
+   "name": "AssessFirst",
+   "annuelMoyen": 28,
+   "threeYears": 112,
+   "commune": "Paris (75)",
+   "description": "Solutions d'analyse de données destinées au recrutement de talents."
+ },
+ {
+   "rank": 282,
+   "name": "Nexworld",
+   "annuelMoyen": 28,
+   "threeYears": 112,
+   "commune": "Paris (75)",
+   "description": "Conseil en transformation digitale. "
+ },
+ {
+   "rank": 283,
+   "name": "E-Energy",
+   "annuelMoyen": 28,
+   "threeYears": 111,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Société de conseil et d’ingénierie en performance énergétique."
+ },
+ {
+   "rank": 284,
+   "name": "EuropAmiante",
+   "annuelMoyen": 28,
+   "threeYears": 111,
+   "commune": "Nanteuil-les-Meaux (77)",
+   "description": "Entreprise spécialisée dans le désamiantage, la dépollution, la déconstruction"
+ },
+ {
+   "rank": 285,
+   "name": "Groupe Steam’O",
+   "annuelMoyen": 28,
+   "threeYears": 109,
+   "commune": "Boulogne (92)",
+   "description": "Facility Management."
+ },
+ {
+   "rank": 286,
+   "name": "Alpao",
+   "annuelMoyen": 27,
+   "threeYears": 107,
+   "commune": "Montbonnot-Saint-Martin (38)",
+   "description": "Conception et fabrication de miroirs déformable et de systèmes d’optique adaptative."
+ },
+ {
+   "rank": 287,
+   "name": "Tetro",
+   "annuelMoyen": 27,
+   "threeYears": 107,
+   "commune": "Lyon (69)",
+   "description": "Agence de communication."
+ },
+ {
+   "rank": 288,
+   "name": "Angel Eyes",
+   "annuelMoyen": 27,
+   "threeYears": 106,
+   "commune": "Courbevoie (92)",
+   "description": "Opticien."
+ },
+ {
+   "rank": 289,
+   "name": "Bilendi",
+   "annuelMoyen": 27,
+   "threeYears": 106,
+   "commune": "Paris (75)",
+   "description": "Collecte, gestion et valorisation de la data."
+ },
+ {
+   "rank": 290,
+   "name": "Elée",
+   "annuelMoyen": 27,
+   "threeYears": 105,
+   "commune": "Le Vésinet (78)",
+   "description": "Conseil en gestion et optimisation des licences logicielles."
+ },
+ {
+   "rank": 291,
+   "name": "DareWin",
+   "annuelMoyen": 27,
+   "threeYears": 104,
+   "commune": "Paris (75)",
+   "description": "Agence de communication spécialisée dans le divertissement."
+ },
+ {
+   "rank": 292,
+   "name": "LocService.fr",
+   "annuelMoyen": 27,
+   "threeYears": 104,
+   "commune": "Vannes (56)",
+   "description": "Location de biens immobiliers."
+ },
+ {
+   "rank": 293,
+   "name": "Affa.com",
+   "annuelMoyen": 27,
+   "threeYears": 104,
+   "commune": "Donzère (26)",
+   "description": "Technicien télécom."
+ },
+ {
+   "rank": 294,
+   "name": "Christophe Bidaud Architectes",
+   "annuelMoyen": 27,
+   "threeYears": 104,
+   "commune": "Rouen (76)",
+   "description": "Architecture."
+ },
+ {
+   "rank": 295,
+   "name": "Laboratoires Dermosun",
+   "annuelMoyen": 27,
+   "threeYears": 103,
+   "commune": "Semalens (81)",
+   "description": "Fabrication et vente de produits solaires."
+ },
+ {
+   "rank": 296,
+   "name": "Megetech",
+   "annuelMoyen": 27,
+   "threeYears": 102,
+   "commune": "Villemoirieu (38)",
+   "description": "Usinage de précision."
+ },
+ {
+   "rank": 297,
+   "name": "Biborg Interactive",
+   "annuelMoyen": 26,
+   "threeYears": 102,
+   "commune": "Paris (75)",
+   "description": "Agence de communication digitale."
+ },
+ {
+   "rank": 298,
+   "name": "Envinergy Transaction",
+   "annuelMoyen": 26,
+   "threeYears": 102,
+   "commune": "Sète (34)",
+   "description": "Société de conseil en transactions spécialisée dans les énergies renouvelables."
+ },
+ {
+   "rank": 299,
+   "name": "GSE Security",
+   "annuelMoyen": 26,
+   "threeYears": 101,
+   "commune": "Marquise (62)",
+   "description": "Solutions de surveillance et sécurité"
+ },
+ {
+   "rank": 300,
+   "name": "Oui Care",
+   "annuelMoyen": 26,
+   "threeYears": 101,
+   "commune": "Le Mans (72)",
+   "description": "Services à la personne."
+ },
+ {
+   "rank": 301,
+   "name": "Tactis",
+   "annuelMoyen": 26,
+   "threeYears": 100,
+   "commune": "Vincennes (94)",
+   "description": "Conseil en IT."
+ },
+ {
+   "rank": 302,
+   "name": "CSD MCG",
+   "annuelMoyen": 26,
+   "threeYears": 100,
+   "commune": "Jouy-le-Moutier (96)",
+   "description": "Spécialisé dans la mise en place d'alarmes de sécurité pour les chantiers. "
+ },
+ {
+   "rank": 303,
+   "name": "As de Carreaux",
+   "annuelMoyen": 26,
+   "threeYears": 100,
+   "commune": "Pézenas (34)",
+   "description": "Vente en ligne de carrelage."
+ },
+ {
+   "rank": 304,
+   "name": "Centreon",
+   "annuelMoyen": 26,
+   "threeYears": 99,
+   "commune": "Paris (75)",
+   "description": "Editeur de logiciel de supervision des infrastructures IT."
+ },
+ {
+   "rank": 305,
+   "name": "Karbone",
+   "annuelMoyen": 26,
+   "threeYears": 99,
+   "commune": "Paris (75)",
+   "description": "Conseil en organisation et systèmes d’informations financiers."
+ },
+ {
+   "rank": 306,
+   "name": "Talents & Projets",
+   "annuelMoyen": 26,
+   "threeYears": 98,
+   "commune": "Paris (75)",
+   "description": "Recrutement de cadres et managers."
+ },
+ {
+   "rank": 307,
+   "name": "sonoscanner",
+   "annuelMoyen": 26,
+   "threeYears": 98,
+   "commune": "Paris (75)",
+   "description": "Fabricant d’échographes à usage médical."
+ },
+ {
+   "rank": 308,
+   "name": "Discngine",
+   "annuelMoyen": 26,
+   "threeYears": 98,
+   "commune": "Paris (75)",
+   "description": "Conception de logiciels destinés à la recherche dans les domaines pharmaceutique, biotechnologique, cosmétique et agrochimique."
+ },
+ {
+   "rank": 309,
+   "name": "Pixid",
+   "annuelMoyen": 25,
+   "threeYears": 98,
+   "commune": "Courbevoie (92)",
+   "description": "Plateforme de gestion de l’intérim."
+ },
+ {
+   "rank": 310,
+   "name": "Neoditel",
+   "annuelMoyen": 25,
+   "threeYears": 96,
+   "commune": "Vallauris-Sophia Antipolis (06)",
+   "description": "Conseil en pilotage et optimisation des moyens de télécommunications pour les entreprises. "
+ },
+ {
+   "rank": 311,
+   "name": "PacWan",
+   "annuelMoyen": 25,
+   "threeYears": 96,
+   "commune": "Aix-en-Provence (13)",
+   "description": "Opérateur de télécommunications."
+ },
+ {
+   "rank": 312,
+   "name": "Karine & Jeff",
+   "annuelMoyen": 25,
+   "threeYears": 96,
+   "commune": "Revel (31)",
+   "description": "Fabrication et distribution de plats cuisinés bio. "
+ },
+ {
+   "rank": 313,
+   "name": "Meotec",
+   "annuelMoyen": 25,
+   "threeYears": 96,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Conseil opérationnel."
+ },
+ {
+   "rank": 314,
+   "name": "Ellipse Dentale",
+   "annuelMoyen": 25,
+   "threeYears": 96,
+   "commune": "Paris (75)",
+   "description": "Fabrication de materiel médico-chirurgical et dentaire."
+ },
+ {
+   "rank": 315,
+   "name": "Ateme",
+   "annuelMoyen": 25,
+   "threeYears": 96,
+   "commune": "Vélizy-Villacoublay (78)",
+   "description": "Diffusion vidéo. "
+ },
+ {
+   "rank": 316,
+   "name": "Technifab",
+   "annuelMoyen": 25,
+   "threeYears": 94,
+   "commune": "Chelles (77)",
+   "description": "Fabrication de portes et fenêtres en méral sur mesure"
+ },
+ {
+   "rank": 317,
+   "name": "ASA Fermetures",
+   "annuelMoyen": 25,
+   "threeYears": 94,
+   "commune": "Lescar (64)",
+   "description": "Vente et mise en place des fermetures industrielles, rideaux métalliques, niveleurs de quai."
+ },
+ {
+   "rank": 318,
+   "name": "BI Consulting",
+   "annuelMoyen": 25,
+   "threeYears": 94,
+   "commune": "Paris (75)",
+   "description": "Conseil en systèmes de synthèse et de pilotage dans les secteurs banque, finance, assurance."
+ },
+ {
+   "rank": 319,
+   "name": "Useradgents",
+   "annuelMoyen": 25,
+   "threeYears": 93,
+   "commune": "Paris (75)",
+   "description": "Agence de communication digitale pour mobiles."
+ },
+ {
+   "rank": 320,
+   "name": "Convictions RH",
+   "annuelMoyen": 24,
+   "threeYears": 93,
+   "commune": "Paris (75)",
+   "description": "Conseil en management et en organisation. "
+ },
+ {
+   "rank": 321,
+   "name": "Mews Partners",
+   "annuelMoyen": 24,
+   "threeYears": 92,
+   "commune": "Toulouse (31)",
+   "description": "Conseil en management. "
+ },
+ {
+   "rank": 322,
+   "name": "Nutrikéo",
+   "annuelMoyen": 24,
+   "threeYears": 92,
+   "commune": "Pessac (33)",
+   "description": "Conseil en stratégies nutrition. "
+ },
+ {
+   "rank": 323,
+   "name": "OpenXtrem",
+   "annuelMoyen": 24,
+   "threeYears": 92,
+   "commune": "Perigny (17)",
+   "description": "Edition de logiciels pour le secteur médical."
+ },
+ {
+   "rank": 324,
+   "name": "Speed Move",
+   "annuelMoyen": 24,
+   "threeYears": 92,
+   "commune": "Grenay (38)",
+   "description": "Transport régional et groupage. "
+ },
+ {
+   "rank": 325,
+   "name": "CNS Communications",
+   "annuelMoyen": 24,
+   "threeYears": 91,
+   "commune": "Saint-Genis-Laval (69)",
+   "description": "Expertise et conseil en infrastructures de communications et en cloud computing. "
+ },
+ {
+   "rank": 326,
+   "name": "CEMI Promotion",
+   "annuelMoyen": 24,
+   "threeYears": 91,
+   "commune": "Saint-Palais-sur-Mer (17)",
+   "description": "Promoteur immobilier."
+ },
+ {
+   "rank": 327,
+   "name": "Neo Gest",
+   "annuelMoyen": 24,
+   "threeYears": 89,
+   "commune": "Nîmes (30)",
+   "description": "Services éco-performants à destination des garagistes indépendants."
+ },
+ {
+   "rank": 328,
+   "name": "ViaDirect",
+   "annuelMoyen": 24,
+   "threeYears": 88,
+   "commune": "Paris (75)",
+   "description": "Agence digitale."
+ },
+ {
+   "rank": 329,
+   "name": "YS Group (You Sushi)",
+   "annuelMoyen": 23,
+   "threeYears": 88,
+   "commune": "Biarritz (64)",
+   "description": "Restaurant japonais."
+ },
+ {
+   "rank": 330,
+   "name": "Groupe Hisi",
+   "annuelMoyen": 23,
+   "threeYears": 88,
+   "commune": "Paris (75)",
+   "description": "Hébergement et infogérance des Systèmes d’Information. "
+ },
+ {
+   "rank": 331,
+   "name": "Gest On Line",
+   "annuelMoyen": 23,
+   "threeYears": 88,
+   "commune": "Salon-de-Provence (13)",
+   "description": "Editeur de logiciels, spécialisé dans l’audit légal. "
+ },
+ {
+   "rank": 332,
+   "name": "CCLD",
+   "annuelMoyen": 23,
+   "threeYears": 88,
+   "commune": "Lyon (69)",
+   "description": "Recrutement spécialisé dans les fonctions commerciales."
+ },
+ {
+   "rank": 333,
+   "name": "Eurosystemes",
+   "annuelMoyen": 23,
+   "threeYears": 87,
+   "commune": "Bischoffsheim (67)",
+   "description": "Solutions d’automatisation de portes, portails et volets. "
+ },
+ {
+   "rank": 334,
+   "name": "UbiCast",
+   "annuelMoyen": 23,
+   "threeYears": 87,
+   "commune": "Ivry-sur-Seine (94)",
+   "description": "Solutions de création et de partage de contenus vidéos."
+ },
+ {
+   "rank": 335,
+   "name": "Lumens Box",
+   "annuelMoyen": 23,
+   "threeYears": 87,
+   "commune": "Buc (78)",
+   "description": "Location et exploitation des solutions techniques Vidéo, Son, et Lumière, destinées aux événements d’entreprise."
+ },
+ {
+   "rank": 336,
+   "name": "ekodev",
+   "annuelMoyen": 23,
+   "threeYears": 87,
+   "commune": "Paris (75)",
+   "description": "Conseil en développement durable."
+ },
+ {
+   "rank": 337,
+   "name": "StpGroup",
+   "annuelMoyen": 23,
+   "threeYears": 86,
+   "commune": "Bernin (38)",
+   "description": "Développement et réalisation en interne de systèmes de contrôle et de séparation de cartes électroniques pour l’industrie."
+ },
+ {
+   "rank": 338,
+   "name": "Extendam",
+   "annuelMoyen": 23,
+   "threeYears": 86,
+   "commune": "Paris (75)",
+   "description": "Investissement dans les PME."
+ },
+ {
+   "rank": 339,
+   "name": "Laboratoire Natoli & associés",
+   "annuelMoyen": 23,
+   "threeYears": 85,
+   "commune": "Saint-Clément-de-Rivière (34)",
+   "description": "Conseil œnologique et agronomique. "
+ },
+ {
+   "rank": 340,
+   "name": "Cartonnerie Moderne",
+   "annuelMoyen": 23,
+   "threeYears": 85,
+   "commune": "Entraigues-sur-Sorgues (84) ",
+   "description": "Fabrication d’emballages personnalisés à partir du carton pour les métiers de bouches. "
+ },
+ {
+   "rank": 341,
+   "name": "Picture Organic Clothing",
+   "annuelMoyen": 23,
+   "threeYears": 85,
+   "commune": "Gerzat (63)",
+   "description": "Vêtements de sport de glisse."
+ },
+ {
+   "rank": 342,
+   "name": "Foncière Bama",
+   "annuelMoyen": 23,
+   "threeYears": 84,
+   "commune": "Nîmes (30)",
+   "description": "Vente de terrains à bâtir et création de lotissements. "
+ },
+ {
+   "rank": 343,
+   "name": "Trimelec",
+   "annuelMoyen": 22,
+   "threeYears": 84,
+   "commune": "Saint-Etienne (42)",
+   "description": "Installations électriques pour bâtiment. "
+ },
+ {
+   "rank": 344,
+   "name": "Wedia",
+   "annuelMoyen": 22,
+   "threeYears": 83,
+   "commune": "Paris (75)",
+   "description": "Editeur de logiciels de Marketing Resource Management (MRM). "
+ },
+ {
+   "rank": 345,
+   "name": "Adéquat",
+   "annuelMoyen": 22,
+   "threeYears": 82,
+   "commune": "Lyon (69)",
+   "description": "Recrutement."
+ },
+ {
+   "rank": 346,
+   "name": "Les Néréides",
+   "annuelMoyen": 22,
+   "threeYears": 82,
+   "commune": "Paris (75)",
+   "description": "Création, fabrication et vente de bijoux."
+ },
+ {
+   "rank": 347,
+   "name": "Big Compagny",
+   "annuelMoyen": 22,
+   "threeYears": 81,
+   "commune": "Lyon (69)",
+   "description": "Conseil en communication et production d’images. "
+ },
+ {
+   "rank": 348,
+   "name": "enioka",
+   "annuelMoyen": 22,
+   "threeYears": 81,
+   "commune": "Montigny-le-Bretonneux (78)",
+   "description": "Conseil en système d’informations."
+ },
+ {
+   "rank": 349,
+   "name": "KYU Associes",
+   "annuelMoyen": 22,
+   "threeYears": 81,
+   "commune": "Paris (75)",
+   "description": "Conseil en management. "
+ },
+ {
+   "rank": 350,
+   "name": "vNext",
+   "annuelMoyen": 22,
+   "threeYears": 80,
+   "commune": "Paris (75)",
+   "description": "Conseil en transformation digitale. "
+ },
+ {
+   "rank": 351,
+   "name": "Manwork",
+   "annuelMoyen": 22,
+   "threeYears": 79,
+   "commune": "Paris (75)",
+   "description": "Recrutement et travail temporaire de cadres techniques."
+ },
+ {
+   "rank": 352,
+   "name": "Com’Sol L’Itinérant",
+   "annuelMoyen": 21,
+   "threeYears": 78,
+   "commune": "Paris (75)",
+   "description": "Hebdomadaire vendu par des personnes qui se trouvent en situation précaire, sans-logis et sans-abri."
+ },
+ {
+   "rank": 353,
+   "name": "France IX Services",
+   "annuelMoyen": 21,
+   "threeYears": 78,
+   "commune": "Paris (75)",
+   "description": "Point d’échange internet."
+ },
+ {
+   "rank": 354,
+   "name": "Vision Bois Construction",
+   "annuelMoyen": 21,
+   "threeYears": 77,
+   "commune": "Drumettaz-Clarafond (73)",
+   "description": "Construction de maisons en bois. "
+ },
+ {
+   "rank": 355,
+   "name": "ARP-Astrance",
+   "annuelMoyen": 21,
+   "threeYears": 77,
+   "commune": "Paris (75)",
+   "description": "Conseil en immobilier, management de projet, aménagement d’espace. "
+ },
+ {
+   "rank": 356,
+   "name": "Bourse de l’Immobilier (Groupe Cofilance)",
+   "annuelMoyen": 21,
+   "threeYears": 77,
+   "commune": "Bordeaux (33)",
+   "description": "Réseau d’agences immobilières."
+ },
+ {
+   "rank": 357,
+   "name": "Orinox",
+   "annuelMoyen": 21,
+   "threeYears": 77,
+   "commune": "Châteaubriant (44)",
+   "description": "Conseil en transformation digitale."
+ },
+ {
+   "rank": 358,
+   "name": "Nessium Consulting",
+   "annuelMoyen": 21,
+   "threeYears": 77,
+   "commune": "Paris (75)",
+   "description": "Spécialiste des solutions financières et comptables et des solutions métiers autour de la finance. "
+ },
+ {
+   "rank": 359,
+   "name": "Abéo",
+   "annuelMoyen": 21,
+   "threeYears": 76,
+   "commune": "Rioz (70)",
+   "description": "Créateur, fabricant et distributeur d’équipements de sport et de loisirs."
+ },
+ {
+   "rank": 360,
+   "name": "Hecht & Bannier",
+   "annuelMoyen": 21,
+   "threeYears": 76,
+   "commune": "Aix-en-Provence (13)",
+   "description": "Négoce en vin. "
+ },
+ {
+   "rank": 361,
+   "name": "Pharmasys",
+   "annuelMoyen": 21,
+   "threeYears": 76,
+   "commune": "Massy (91)",
+   "description": "Conseil en qualité et conformité des systèmes d’information "
+ },
+ {
+   "rank": 362,
+   "name": "Phénix Technologie",
+   "annuelMoyen": 21,
+   "threeYears": 76,
+   "commune": "Montgeard (31)",
+   "description": "Fabrication et maintenance de systèmes de découpe jet d’eau, plasma, laser et oxycoupage."
+ },
+ {
+   "rank": 363,
+   "name": "Groupe Pierreval",
+   "annuelMoyen": 21,
+   "threeYears": 76,
+   "commune": "Chasseneuil-du-Poitou Futuroscope (86)",
+   "description": "Promotion immobilière de logements, administration de biens."
+ },
+ {
+   "rank": 364,
+   "name": "Eight Advisory",
+   "annuelMoyen": 21,
+   "threeYears": 76,
+   "commune": "Paris (75)",
+   "description": "Conseil financier et opérationnel en transaction, restructuration et transformation. "
+ },
+ {
+   "rank": 365,
+   "name": "Green Apple",
+   "annuelMoyen": 21,
+   "threeYears": 75,
+   "commune": "Arras (62)",
+   "description": "Commerce de gros dans le secteur des jeux de société. "
+ },
+ {
+   "rank": 366,
+   "name": "Biologique Recherche",
+   "annuelMoyen": 20,
+   "threeYears": 74,
+   "commune": "Paris (75)",
+   "description": "Fabrication et vente de produits cosmétiques personnalisés. "
+ },
+ {
+   "rank": 367,
+   "name": "André SARL",
+   "annuelMoyen": 20,
+   "threeYears": 74,
+   "commune": "Compiègne (60)",
+   "description": "Entreprise générale de bâtiment, spécialisée dans la rénovation et l’extension de maison."
+ },
+ {
+   "rank": 368,
+   "name": "Techteam",
+   "annuelMoyen": 20,
+   "threeYears": 74,
+   "commune": "Saint-Priest (69)",
+   "description": "Solution d’optimisation de la performance industrielle."
+ },
+ {
+   "rank": 369,
+   "name": "Lizybiz",
+   "annuelMoyen": 20,
+   "threeYears": 74,
+   "commune": "Paris (75)",
+   "description": "Fabrication de tissu. "
+ },
+ {
+   "rank": 370,
+   "name": "Kasadenn",
+   "annuelMoyen": 20,
+   "threeYears": 73,
+   "commune": "La Chapelle-sur-Erdre (44)",
+   "description": "Conseil en management de projet. "
+ },
+ {
+   "rank": 371,
+   "name": "Claranova",
+   "annuelMoyen": 20,
+   "threeYears": 73,
+   "commune": "La Garenne-Colombes Cedex (92)",
+   "description": "Editeur de logiciels. "
+ },
+ {
+   "rank": 372,
+   "name": "Serial Creative",
+   "annuelMoyen": 20,
+   "threeYears": 73,
+   "commune": "Paris (75)",
+   "description": "Agence conseil en communication dédiée au secteur de la santé."
+ },
+ {
+   "rank": 373,
+   "name": "New LSF Montpellier",
+   "annuelMoyen": 20,
+   "threeYears": 73,
+   "commune": "Montpellier (34)",
+   "description": "Ecole de langue dédiée au FLE (Français Langue Etrangère)."
+ },
+ {
+   "rank": 374,
+   "name": "Adelyce",
+   "annuelMoyen": 20,
+   "threeYears": 73,
+   "commune": "Labège (31)",
+   "description": "Solution de maîtrise et pilotage financier de la masse salariale des administrations publiques locales. "
+ },
+ {
+   "rank": 375,
+   "name": "Ailancy",
+   "annuelMoyen": 20,
+   "threeYears": 72,
+   "commune": "Paris (75)",
+   "description": "Conseil en organisation et management en banque, finance et assurance."
+ },
+ {
+   "rank": 376,
+   "name": "Kitvia",
+   "annuelMoyen": 20,
+   "threeYears": 72,
+   "commune": "Labarthe-Inard (31)",
+   "description": "Biologie vétérinaire. "
+ },
+ {
+   "rank": 377,
+   "name": "Cat-Amania",
+   "annuelMoyen": 20,
+   "threeYears": 72,
+   "commune": "Saint-Herblain (44)",
+   "description": "Conseil en IT spécialiste dans les secteurs de la banque et de l’assurance. "
+ },
+ {
+   "rank": 378,
+   "name": "Excilone",
+   "annuelMoyen": 20,
+   "threeYears": 72,
+   "commune": "Elancourt (78)",
+   "description": "Vente et développement des instruments et logiciels pour la recherche. "
+ },
+ {
+   "rank": 379,
+   "name": "Genius & Co",
+   "annuelMoyen": 20,
+   "threeYears": 71,
+   "commune": "Poitiers (86)",
+   "description": "Agence de publicité et communication."
+ },
+ {
+   "rank": 380,
+   "name": "Mehari 2CV Passion",
+   "annuelMoyen": 20,
+   "threeYears": 71,
+   "commune": "Six-Fours-les-Plages (83)",
+   "description": "Achat et vente de pièces détachées de véhicules. "
+ },
+ {
+   "rank": 381,
+   "name": "Premium",
+   "annuelMoyen": 20,
+   "threeYears": 71,
+   "commune": "Boulogne (92)",
+   "description": "Agence média. "
+ },
+ {
+   "rank": 382,
+   "name": "Aurexia",
+   "annuelMoyen": 20,
+   "threeYears": 71,
+   "commune": "Paris (75)",
+   "description": "Conseil en stratégie et management spécialisé dans les métiers de la banque et de la finance."
+ },
+ {
+   "rank": 383,
+   "name": "Urban Linker",
+   "annuelMoyen": 19,
+   "threeYears": 71,
+   "commune": "Paris (75)",
+   "description": "Recrutement spécialisé dans les métiers du digital."
+ },
+ {
+   "rank": 384,
+   "name": "BEG Ingénierie",
+   "annuelMoyen": 19,
+   "threeYears": 70,
+   "commune": "Orléans (45)",
+   "description": "Bureau d’études spécialisé dans la construction de centres commerciaux et plateformes logistiques."
+ },
+ {
+   "rank": 385,
+   "name": "Sewan",
+   "annuelMoyen": 19,
+   "threeYears": 70,
+   "commune": "Paris (75)",
+   "description": "Opérateur et hébergeur cloud."
+ },
+ {
+   "rank": 386,
+   "name": "IKOS Group",
+   "annuelMoyen": 19,
+   "threeYears": 70,
+   "commune": "Levallois-Perret (92)",
+   "description": "Conseil en ingénierie du secteur ferroviaire. "
+ },
+ {
+   "rank": 387,
+   "name": "NCA environnement",
+   "annuelMoyen": 19,
+   "threeYears": 70,
+   "commune": "Neuville-de-Poitou (86)",
+   "description": "Bureau d’études techniques en environnement. "
+ },
+ {
+   "rank": 388,
+   "name": "Bois et Paille Charpente",
+   "annuelMoyen": 19,
+   "threeYears": 70,
+   "commune": "Vausseroux (79)",
+   "description": "Construction de maisons éco-responsables. "
+ },
+ {
+   "rank": 389,
+   "name": "Vitalliance",
+   "annuelMoyen": 19,
+   "threeYears": 70,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Services d’aide à domicile pour les personnes dépendantes."
+ },
+ {
+   "rank": 390,
+   "name": "Proman",
+   "annuelMoyen": 19,
+   "threeYears": 70,
+   "commune": "Manosque Cedex (04)",
+   "description": "Agence de recrutement CDI, CDD et Intérim."
+ },
+ {
+   "rank": 391,
+   "name": "Idealwine.com",
+   "annuelMoyen": 19,
+   "threeYears": 69,
+   "commune": "Colombes (92)",
+   "description": "Vente en ligne de grands crus."
+ },
+ {
+   "rank": 392,
+   "name": "Pronadis",
+   "annuelMoyen": 19,
+   "threeYears": 69,
+   "commune": "Vayres (33)",
+   "description": "Grossiste régional en produits biologiques de véhicules. "
+ },
+ {
+   "rank": 393,
+   "name": "Praxedo",
+   "annuelMoyen": 19,
+   "threeYears": 68,
+   "commune": "Paris (75)",
+   "description": "Editeur d'un logiciel de gestion d’interventions. "
+ },
+ {
+   "rank": 394,
+   "name": "Cafés Di-Costanzo",
+   "annuelMoyen": 19,
+   "threeYears": 68,
+   "commune": "L’Isle-Jourdain (32)",
+   "description": "Torréfaction de café. "
+ },
+ {
+   "rank": 395,
+   "name": "Ets. SO.DI.CO",
+   "annuelMoyen": 19,
+   "threeYears": 68,
+   "commune": "Monein (64)",
+   "description": "Entrepositaire de boissons. "
+ },
+ {
+   "rank": 396,
+   "name": "SARL Chamar",
+   "annuelMoyen": 19,
+   "threeYears": 67,
+   "commune": "Sallanches (74)",
+   "description": "Vente au détail et sur internet de chaussures. "
+ },
+ {
+   "rank": 397,
+   "name": "Désirs2Rêves",
+   "annuelMoyen": 19,
+   "threeYears": 67,
+   "commune": "Saint-Médard-en-Jalles (33)",
+   "description": "Vente de voyages pour les particuliers, les groupes, et les comités d’entreprises. "
+ },
+ {
+   "rank": 398,
+   "name": "Techni’Sens",
+   "annuelMoyen": 19,
+   "threeYears": 67,
+   "commune": "La Rochelle (17)",
+   "description": "Institut d'études marketing."
+ },
+ {
+   "rank": 399,
+   "name": "Iligo",
+   "annuelMoyen": 19,
+   "threeYears": 67,
+   "commune": "Paris (75)",
+   "description": "Agence d’études dédiée à la compréhension des comportements de consommation et à la mesure des leviers marketing."
+ },
+ {
+   "rank": 400,
+   "name": "WNP",
+   "annuelMoyen": 18,
+   "threeYears": 66,
+   "commune": "Paris (75)",
+   "description": "Agence de publicité et communication."
+ },
+ {
+   "rank": 401,
+   "name": "S-Cube",
+   "annuelMoyen": 18,
+   "threeYears": 66,
+   "commune": "Vélizy-Villacoublay (78)",
+   "description": "Intégrateur d’infrastructures informatiques."
+ },
+ {
+   "rank": 402,
+   "name": "BOS Aménagement",
+   "annuelMoyen": 18,
+   "threeYears": 65,
+   "commune": "Saint-Jacques-de-la-Lande (35)",
+   "description": "Fabrication et distribution de mobilier de bureau."
+ },
+ {
+   "rank": 403,
+   "name": "Esker",
+   "annuelMoyen": 18,
+   "threeYears": 65,
+   "commune": "Villeurbanne (69)",
+   "description": "Solutions de dématérialisation en entreprise. "
+ },
+ {
+   "rank": 404,
+   "name": "Voyageos",
+   "annuelMoyen": 18,
+   "threeYears": 64,
+   "commune": "Dinan (22)",
+   "description": "Tour opérateur et agence de voyage spécialiste des voyages en Chine. "
+ },
+ {
+   "rank": 405,
+   "name": "Intempora",
+   "annuelMoyen": 18,
+   "threeYears": 63,
+   "commune": "Issy-les-Moulineaux (92)",
+   "description": "Editeur du logiciel RTMaps. "
+ },
+ {
+   "rank": 406,
+   "name": "Voxens",
+   "annuelMoyen": 17,
+   "threeYears": 62,
+   "commune": "Rouen (76)",
+   "description": "Centre d’appels spécialisés dans la relation clients et le secrétariat externalisé. "
+ },
+ {
+   "rank": 407,
+   "name": "Eurocomposant",
+   "annuelMoyen": 17,
+   "threeYears": 62,
+   "commune": "Voisins-le-Bretonneux (78)",
+   "description": "Fabrication et distribution de composants électroniques. "
+ },
+ {
+   "rank": 408,
+   "name": "Roland Coiffe & Associés",
+   "annuelMoyen": 17,
+   "threeYears": 62,
+   "commune": "Quinsac (33)",
+   "description": "Négociant en vins, spécialiste des marchés"
+ },
+ {
+   "rank": 409,
+   "name": "Alcyon SI",
+   "annuelMoyen": 17,
+   "threeYears": 62,
+   "commune": "Houilles (78)",
+   "description": "Conseil en système d’information."
+ },
+ {
+   "rank": 410,
+   "name": "Margo",
+   "annuelMoyen": 17,
+   "threeYears": 60,
+   "commune": "Paris (75)",
+   "description": "Conseil en transformation digitale. "
+ },
+ {
+   "rank": 411,
+   "name": "MBVSI",
+   "annuelMoyen": 17,
+   "threeYears": 60,
+   "commune": "Paris (75)",
+   "description": "Prestataire de services informatiques. "
+ },
+ {
+   "rank": 412,
+   "name": "Zoomici",
+   "annuelMoyen": 17,
+   "threeYears": 59,
+   "commune": "Valence (26)",
+   "description": "Plateforme de distributions de produits sur le web."
+ },
+ {
+   "rank": 413,
+   "name": "Frites Dorées",
+   "annuelMoyen": 17,
+   "threeYears": 59,
+   "commune": "Aulnay-sous-Bois (93)",
+   "description": "Vente en gros et demi-gros de produits alimentaires. "
+ },
+ {
+   "rank": 414,
+   "name": "Trinity",
+   "annuelMoyen": 17,
+   "threeYears": 59,
+   "commune": "Paris (75)",
+   "description": "Agence d’hôtes et d’hôtesses. "
+ },
+ {
+   "rank": 415,
+   "name": "Sepro Group",
+   "annuelMoyen": 17,
+   "threeYears": 59,
+   "commune": "La Roche-sur-Yon (85)",
+   "description": "Fabricant de robots."
+ },
+ {
+   "rank": 416,
+   "name": "Stock Bureau",
+   "annuelMoyen": 17,
+   "threeYears": 59,
+   "commune": "Chevigny-Saint-Sauveur (21)",
+   "description": "Papeterie et matériel de bureau."
+ },
+ {
+   "rank": 417,
+   "name": "Lafet Construction",
+   "annuelMoyen": 17,
+   "threeYears": 59,
+   "commune": "Le Plan-de-la-Tour (83)",
+   "description": "Construction de bâtiment et rénovation."
+ },
+ {
+   "rank": 418,
+   "name": "IpsoSenso",
+   "annuelMoyen": 17,
+   "threeYears": 59,
+   "commune": "Paris (75)",
+   "description": "Conseil en IT. "
+ },
+ {
+   "rank": 419,
+   "name": "Timspirit",
+   "annuelMoyen": 17,
+   "threeYears": 58,
+   "commune": "Asnières-sur-Seine (92)",
+   "description": "Conseil en systèmes d’information. "
+ },
+ {
+   "rank": 420,
+   "name": "Jack in the Box",
+   "annuelMoyen": 17,
+   "threeYears": 58,
+   "commune": "Saint-Herblain (44)",
+   "description": "Conseil en Proposal Management. "
+ },
+ {
+   "rank": 421,
+   "name": "Balas Textile",
+   "annuelMoyen": 17,
+   "threeYears": 58,
+   "commune": "Saint-Romain-de-Popey (69)",
+   "description": "Conception et production de tissus techniques."
+ },
+ {
+   "rank": 422,
+   "name": "Fermob",
+   "annuelMoyen": 17,
+   "threeYears": 58,
+   "commune": "Thoissey (01)",
+   "description": "Création et fabrication de meubles de jardin innovants."
+ },
+ {
+   "rank": 423,
+   "name": "Piman Consultants",
+   "annuelMoyen": 17,
+   "threeYears": 58,
+   "commune": "Limonest (69)",
+   "description": "Conseil en gestion de projets industriels. "
+ },
+ {
+   "rank": 424,
+   "name": "Chromatotec",
+   "annuelMoyen": 16,
+   "threeYears": 58,
+   "commune": "Val-de-Virvée (33)",
+   "description": "Fabrication et vente d’analyseurs de gaz. "
+ },
+ {
+   "rank": 425,
+   "name": "Acti Plus",
+   "annuelMoyen": 16,
+   "threeYears": 58,
+   "commune": "Murol (63)",
+   "description": "Supermarché. "
+ },
+ {
+   "rank": 426,
+   "name": "Retour de Plage",
+   "annuelMoyen": 16,
+   "threeYears": 57,
+   "commune": "Dolus-d’Oléron (17)",
+   "description": "Création, fabrication et vente de bijoux fantaisie. "
+ },
+ {
+   "rank": 427,
+   "name": "Pro Inox France",
+   "annuelMoyen": 16,
+   "threeYears": 57,
+   "commune": "Verneuil d’Avre et d’Iton (27)",
+   "description": "Vente de matériel de cuisine professionnelle. "
+ },
+ {
+   "rank": 428,
+   "name": "Alaji",
+   "annuelMoyen": 16,
+   "threeYears": 57,
+   "commune": "Villers-les-Nancy (54)",
+   "description": "Organisme de formation."
+ },
+ {
+   "rank": 429,
+   "name": "Credireve",
+   "annuelMoyen": 16,
+   "threeYears": 56,
+   "commune": "Chambéry (73)",
+   "description": "Courtage immobilier."
+ },
+ {
+   "rank": 430,
+   "name": "ProJobnow",
+   "annuelMoyen": 16,
+   "threeYears": 56,
+   "commune": "Rouen (76)",
+   "description": "Recrutement et travail temporaire. "
+ },
+ {
+   "rank": 431,
+   "name": "Génération Robots",
+   "annuelMoyen": 16,
+   "threeYears": 56,
+   "commune": "Mérignac (33)",
+   "description": "Distribution de robots de services et de solutions robotiques. "
+ },
+ {
+   "rank": 432,
+   "name": "dynaMIPS (DME85)",
+   "annuelMoyen": 16,
+   "threeYears": 56,
+   "commune": "La Roche-sur-Yon (85)",
+   "description": "Services et solutions informatiques. "
+ },
+ {
+   "rank": 433,
+   "name": "Jardimax",
+   "annuelMoyen": 16,
+   "threeYears": 55,
+   "commune": "Hazebrouck (59)",
+   "description": "Matériel de jardinage. "
+ },
+ {
+   "rank": 434,
+   "name": "Entreprise de Construction Duarte",
+   "annuelMoyen": 16,
+   "threeYears": 55,
+   "commune": "Chanteloup-en-Brie (77)",
+   "description": "Construction de logements. "
+ },
+ {
+   "rank": 435,
+   "name": "MGI digital Technology",
+   "annuelMoyen": 16,
+   "threeYears": 55,
+   "commune": "Fresnes (94)",
+   "description": "Conception et fabrication de solutions d'impression numérique."
+ },
+ {
+   "rank": 436,
+   "name": "Aladinoo group",
+   "annuelMoyen": 15,
+   "threeYears": 54,
+   "commune": "Avignon (84)",
+   "description": "Recrutement et travail temporaire spécialisé dans la force de vente du secteur du luxe."
+ },
+ {
+   "rank": 437,
+   "name": "Sidetrade",
+   "annuelMoyen": 15,
+   "threeYears": 54,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Editeur de logiciels pour les entreprises. "
+ },
+ {
+   "rank": 438,
+   "name": "Mr Pompes",
+   "annuelMoyen": 15,
+   "threeYears": 54,
+   "commune": "Calvisson (30)",
+   "description": "Spécialiste des solutions de pompage. "
+ },
+ {
+   "rank": 439,
+   "name": "Maisons Claire",
+   "annuelMoyen": 15,
+   "threeYears": 54,
+   "commune": "Hauconcourt (57)",
+   "description": "Construction de maisons individuelles sur mesure."
+ },
+ {
+   "rank": 440,
+   "name": "Real 31",
+   "annuelMoyen": 15,
+   "threeYears": 53,
+   "commune": "Maisons-Laffitte (78)",
+   "description": "Vente, location et gestion immobilière."
+ },
+ {
+   "rank": 441,
+   "name": "Openip",
+   "annuelMoyen": 15,
+   "threeYears": 53,
+   "commune": "Clichy (92)",
+   "description": "Opérateur internet & télecoms."
+ },
+ {
+   "rank": 442,
+   "name": "SoftFluent",
+   "annuelMoyen": 15,
+   "threeYears": 53,
+   "commune": "Antony (92)",
+   "description": "Conseil et développement de logiciels et d’applications sur mesure."
+ },
+ {
+   "rank": 443,
+   "name": "HLP",
+   "annuelMoyen": 15,
+   "threeYears": 53,
+   "commune": "Brognard (25)",
+   "description": "Conseil en efficacité opérationnelle et RH. "
+ },
+ {
+   "rank": 444,
+   "name": "Camas Formation",
+   "annuelMoyen": 15,
+   "threeYears": 52,
+   "commune": "Tremblay-en-France (93)",
+   "description": "Groupe spécialisé dans l’enseignement et la formation professionnelle des particuliers et des entreprises."
+ },
+ {
+   "rank": 445,
+   "name": "Didaxis",
+   "annuelMoyen": 15,
+   "threeYears": 52,
+   "commune": "Paris (75)",
+   "description": "Société de portage salarial. "
+ },
+ {
+   "rank": 446,
+   "name": "Peaks",
+   "annuelMoyen": 15,
+   "threeYears": 52,
+   "commune": "Lyon (69)",
+   "description": "Conseil en technologie numérique."
+ },
+ {
+   "rank": 447,
+   "name": "Symbiose Informatique",
+   "annuelMoyen": 15,
+   "threeYears": 52,
+   "commune": "Lannion (22)",
+   "description": "Société de services et de distribution informatique."
+ },
+ {
+   "rank": 448,
+   "name": "Lepage Granit",
+   "annuelMoyen": 15,
+   "threeYears": 52,
+   "commune": "Chanteheux (54)",
+   "description": "Fabrication de pièces industrielles et de plans de travail de cuisine."
+ },
+ {
+   "rank": 449,
+   "name": "Hugau Gestion",
+   "annuelMoyen": 15,
+   "threeYears": 51,
+   "commune": "Paris (75)",
+   "description": "Société de gestion de portefeuille. "
+ },
+ {
+   "rank": 450,
+   "name": "Meosis",
+   "annuelMoyen": 15,
+   "threeYears": 51,
+   "commune": "Horbourg-Wihr (68)",
+   "description": "Création de site internet & référencement Google."
+ },
+ {
+   "rank": 451,
+   "name": "Trecento Asset Management",
+   "annuelMoyen": 15,
+   "threeYears": 51,
+   "commune": "Paris (75)",
+   "description": "Asset management."
+ },
+ {
+   "rank": 452,
+   "name": "Fromagerie de la Durance",
+   "annuelMoyen": 15,
+   "threeYears": 51,
+   "commune": "Guillestre (05)",
+   "description": "Production et commercialisation de fromages aux laits crus de vache, brebis et chèvre."
+ },
+ {
+   "rank": 453,
+   "name": "mc²i Groupe",
+   "annuelMoyen": 15,
+   "threeYears": 51,
+   "commune": "Paris (75)",
+   "description": "Conseil en système d’informations. "
+ },
+ {
+   "rank": 454,
+   "name": "Celad",
+   "annuelMoyen": 15,
+   "threeYears": 50,
+   "commune": "Balma (31)",
+   "description": "SSII spécialisée en services IT."
+ },
+ {
+   "rank": 455,
+   "name": "A3M",
+   "annuelMoyen": 14,
+   "threeYears": 50,
+   "commune": "Montussan (33)",
+   "description": "Menuiserie."
+ },
+ {
+   "rank": 456,
+   "name": "Adista",
+   "annuelMoyen": 14,
+   "threeYears": 50,
+   "commune": "Maxéville (54)",
+   "description": "Opérateur de Services Hébergés. "
+ },
+ {
+   "rank": 457,
+   "name": "Adveris",
+   "annuelMoyen": 14,
+   "threeYears": 50,
+   "commune": "Paris (75)",
+   "description": "Agence de communication digitale. "
+ },
+ {
+   "rank": 458,
+   "name": "Elec MAG 38",
+   "annuelMoyen": 14,
+   "threeYears": 49,
+   "commune": "Brangues (38)",
+   "description": "Travaux d’installation électriques sur grandes surfaces."
+ },
+ {
+   "rank": 459,
+   "name": "With Up Com",
+   "annuelMoyen": 14,
+   "threeYears": 49,
+   "commune": "Paris (75)",
+   "description": "Agence de communication. "
+ },
+ {
+   "rank": 460,
+   "name": "L’Océan de Pains",
+   "annuelMoyen": 14,
+   "threeYears": 49,
+   "commune": "Vieux-Boucau (40)",
+   "description": "Boulangerie et pâtisserie. "
+ },
+ {
+   "rank": 461,
+   "name": "Atout Médical",
+   "annuelMoyen": 14,
+   "threeYears": 49,
+   "commune": "Noyal-Châtillon-sur-Seiche (35)",
+   "description": " Location et vente de matériels médicaux auprès des officines. "
+ },
+ {
+   "rank": 462,
+   "name": "Joly location",
+   "annuelMoyen": 14,
+   "threeYears": 49,
+   "commune": "Couternon (21)",
+   "description": "Location de nacelles "
+ },
+ {
+   "rank": 463,
+   "name": "Poulaillon",
+   "annuelMoyen": 14,
+   "threeYears": 48,
+   "commune": "Wittelsheim (68)",
+   "description": "Boulangerie, restauration rapide et traiteur."
+ },
+ {
+   "rank": 464,
+   "name": "Anevia",
+   "annuelMoyen": 14,
+   "threeYears": 48,
+   "commune": "Gentilly (94)",
+   "description": "Edition de logiciels pour la distribution de la télévision et la vidéo."
+ },
+ {
+   "rank": 465,
+   "name": "Laboratoire Pediact",
+   "annuelMoyen": 14,
+   "threeYears": 47,
+   "commune": "Asnières-sur-Seine (92)",
+   "description": "Laboratoire pharmaceutique spécialisé dans la santé pédiatrique. "
+ },
+ {
+   "rank": 466,
+   "name": "Kollirama Sud",
+   "annuelMoyen": 14,
+   "threeYears": 47,
+   "commune": "Bernis (30)",
+   "description": "Aménagement de surfaces commerciales et de stockage."
+ },
+ {
+   "rank": 467,
+   "name": "Obione",
+   "annuelMoyen": 14,
+   "threeYears": 47,
+   "commune": "Mâcon (71)",
+   "description": "Produits, outils et analyses pour vaches laitières. "
+ },
+ {
+   "rank": 468,
+   "name": "Solution Import",
+   "annuelMoyen": 14,
+   "threeYears": 47,
+   "commune": "Vénissieux (69)",
+   "description": "Négoce de composants métallurgiques industriels. "
+ },
+ {
+   "rank": 469,
+   "name": "Axitec",
+   "annuelMoyen": 14,
+   "threeYears": 46,
+   "commune": "Niort (79)",
+   "description": "Conception et fabrication de palonniers à ventouses. "
+ },
+ {
+   "rank": 470,
+   "name": "Catapulte",
+   "annuelMoyen": 14,
+   "threeYears": 46,
+   "commune": "Colombes (92)",
+   "description": "Organisation d’événements dans le secteur de l’automobile."
+ },
+ {
+   "rank": 471,
+   "name": "S.P.R.C.",
+   "annuelMoyen": 14,
+   "threeYears": 46,
+   "commune": "Saint-Benoît (86)",
+   "description": "Société de restauration collective. "
+ },
+ {
+   "rank": 472,
+   "name": "Pharmacie Piau",
+   "annuelMoyen": 14,
+   "threeYears": 46,
+   "commune": "Arras (62)",
+   "description": "Réseau de pharmacies."
+ },
+ {
+   "rank": 473,
+   "name": "Velayos",
+   "annuelMoyen": 13,
+   "threeYears": 46,
+   "commune": "Floirac (33)",
+   "description": "Distributeur de vins, spiritueux et bières."
+ },
+ {
+   "rank": 474,
+   "name": "SAS France Poutres",
+   "annuelMoyen": 13,
+   "threeYears": 46,
+   "commune": "Venansault (85)",
+   "description": "Fabrication de poutres en bois massif."
+ },
+ {
+   "rank": 475,
+   "name": "Valeo",
+   "annuelMoyen": 13,
+   "threeYears": 46,
+   "commune": "Paris (75)",
+   "description": "Equipementier automobile."
+ },
+ {
+   "rank": 476,
+   "name": "Sotic",
+   "annuelMoyen": 13,
+   "threeYears": 45,
+   "commune": "Le Pouzin (07)",
+   "description": "Fabrication de motoréducteurs."
+ },
+ {
+   "rank": 477,
+   "name": "Entreprise Chavinier",
+   "annuelMoyen": 13,
+   "threeYears": 45,
+   "commune": "Aurillac (15)",
+   "description": "Travaux d’installation électriques sur la voie publique. "
+ },
+ {
+   "rank": 478,
+   "name": "Aqua 2000",
+   "annuelMoyen": 13,
+   "threeYears": 45,
+   "commune": "Marly (59)",
+   "description": "Distribution d’adoucisseurs d’eau. "
+ },
+ {
+   "rank": 479,
+   "name": "Newsteo",
+   "annuelMoyen": 13,
+   "threeYears": 44,
+   "commune": "La Ciotat (13)",
+   "description": "Solution de capteurs sans fil industriels (IIoT) et de gestion des mesures à des fins de traçabilité, d’alerte et de supervision."
+ },
+ {
+   "rank": 480,
+   "name": "Distrimed",
+   "annuelMoyen": 13,
+   "threeYears": 44,
+   "commune": "Cuers (83)",
+   "description": "Grossiste en équipements médicaux pour le e-commerce."
+ },
+ {
+   "rank": 481,
+   "name": "Indépendance Royale",
+   "annuelMoyen": 13,
+   "threeYears": 44,
+   "commune": "Limoges (87)",
+   "description": "Produits et services de mobilité pour seniors."
+ },
+ {
+   "rank": 482,
+   "name": "Alten",
+   "annuelMoyen": 13,
+   "threeYears": 44,
+   "commune": "Boulogne-Billancourt (92)",
+   "description": "Recrutement et conseil en ingénierie. "
+ },
+ {
+   "rank": 483,
+   "name": "Satinox Assemblage",
+   "annuelMoyen": 13,
+   "threeYears": 43,
+   "commune": "Houdan (78)",
+   "description": "Commerce de gros de fournitures et équipements industriels pour pour les secteurs industriel, aéronautique et militaire. "
+ },
+ {
+   "rank": 484,
+   "name": "Assurinco",
+   "annuelMoyen": 13,
+   "threeYears": 43,
+   "commune": "Toulouse (31)",
+   "description": "Courtage en assurances."
+ },
+ {
+   "rank": 485,
+   "name": "Cyfac International",
+   "annuelMoyen": 13,
+   "threeYears": 43,
+   "commune": "Hommes (37)",
+   "description": "Fabrication de cadres de vélo sur mesure, sous sa marque ou en sous-traitance. "
+ },
+ {
+   "rank": 486,
+   "name": "RP5 Sports",
+   "annuelMoyen": 13,
+   "threeYears": 43,
+   "commune": "Montauban (82)",
+   "description": "Commerce d’articles de sport. "
+ },
+ {
+   "rank": 487,
+   "name": "Mes Clefs",
+   "annuelMoyen": 13,
+   "threeYears": 42,
+   "commune": "Paris (75)",
+   "description": "Vente en ligne de doubles de clefs et de solution de sécurité personnalisées "
+ },
+ {
+   "rank": 488,
+   "name": "Anacours",
+   "annuelMoyen": 12,
+   "threeYears": 42,
+   "commune": "Paris (75)",
+   "description": "Cours particuliers à domicile ou en ligne et stages en petits groupes. "
+ },
+ {
+   "rank": 489,
+   "name": "Seguigne et Ruiz",
+   "annuelMoyen": 12,
+   "threeYears": 42,
+   "commune": "Gleize (69)",
+   "description": "Entreprise de nettoyage spécialisée en milieu médical. "
+ },
+ {
+   "rank": 490,
+   "name": "SARL Majengo",
+   "annuelMoyen": 12,
+   "threeYears": 41,
+   "commune": "Toulouse (31)",
+   "description": "Conseil en IT. "
+ },
+ {
+   "rank": 491,
+   "name": "Asys",
+   "annuelMoyen": 12,
+   "threeYears": 40,
+   "commune": "Paris (75)",
+   "description": "Edition et intégration de solutions de planification."
+ },
+ {
+   "rank": 492,
+   "name": "Amplitudes",
+   "annuelMoyen": 12,
+   "threeYears": 40,
+   "commune": "Toulouse (31)",
+   "description": "Agence de voyage spécialiste du voyage sur mesure individuel et en groupe. "
+ },
+ {
+   "rank": 493,
+   "name": "API Restauration",
+   "annuelMoyen": 12,
+   "threeYears": 39,
+   "commune": "Mons-en-Barœul (59)",
+   "description": "Services de restauration collective."
+ },
+ {
+   "rank": 494,
+   "name": "Holight",
+   "annuelMoyen": 12,
+   "threeYears": 39,
+   "commune": "Ogeu-les-Bains (64)",
+   "description": "Conception, fabrication et commercialisation d’appareils d’éclairage."
+ },
+ {
+   "rank": 495,
+   "name": "Octave",
+   "annuelMoyen": 11,
+   "threeYears": 38,
+   "commune": "Angers (49)",
+   "description": "Progiciels de gestion intégrée avec solution e-commerce."
+ },
+ {
+   "rank": 496,
+   "name": "Butin-Terrier",
+   "annuelMoyen": 11,
+   "threeYears": 38,
+   "commune": "Dagneux (11)",
+   "description": "Gestion des déchets auprès des entreprises et négoce international de métaux ferreux et non ferreux. "
+ },
+ {
+   "rank": 497,
+   "name": "Kymeos",
+   "annuelMoyen": 11,
+   "threeYears": 38,
+   "commune": "Le Perreux-sur-Marne (94)",
+   "description": "Distributeur de solutions de communications à l’international, spécialiste des pays en voie à l’international, spécialiste des pays en voie"
+ },
+ {
+   "rank": 498,
+   "name": "ISA Media Development",
+   "annuelMoyen": 11,
+   "threeYears": 38,
+   "commune": "Rochetoirin (38)",
+   "description": "Reprise et développement de radios locales"
+ },
+ {
+   "rank": 499,
+   "name": "Compagnie Fiduciaire",
+   "annuelMoyen": 11,
+   "threeYears": 38,
+   "commune": "Bordeaux (33)",
+   "description": "Expertise comptable. "
+ },
+ {
+   "rank": 500,
+   "name": "Champagne Gruet",
+   "annuelMoyen": 11,
+   "threeYears": 37,
+   "commune": "Buxeuil (10)",
+   "description": "Nous sommes viticulteurs de père en fils depuis 1670."
+ }
+]
